@@ -1,4 +1,9 @@
-# phw251_projectdata
+# PH251 Project Data
 
-### Data source for world_regions file:
-It is mostly the International Organization for [Standardization 3166 standard](https://en.wikipedia.org/wiki/ISO_3166) with the [World Factbook 7 European Regions](https://www.cia.gov/the-world-factbook/europe/). Okay to reference the ISO if you choose 4 regions or World Factbook if you choose 7 regions.
+This repository contains the data needed for the three different group project scenarios for Fall 2023. 
+
+Please view the folders below to access the correct data for your scenario:
+- **scenario_1**: Scenario 1: Flu outbreak (simulated) and vaccine uptake in California
+- **scenario_2**: Scenario 2: Mortality and Medicare services in the United States
+- **scenario_3**: Scenario 3: Environment and asthma in California
+
