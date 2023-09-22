@@ -1,4 +1,4 @@
-# PH251 Project Data
+# PH251 Project Data Fall 2023
 
 This repository contains the data needed for the three different group project scenarios for Fall 2023. 
 
