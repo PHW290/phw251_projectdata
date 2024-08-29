@@ -1,6 +1,6 @@
-# PH251 Project Data Fall 2023
+# PHW251 Project Data
 
-This repository contains the data needed for the three different group project scenarios for Fall 2023. 
+This repository contains the data needed for the three different group project scenarios for the R for Public Health course. 
 
 Please view the folders below to access the correct data for your scenario:
 - **scenario_1**: Scenario 1: Flu outbreak (simulated) and vaccine uptake in California
