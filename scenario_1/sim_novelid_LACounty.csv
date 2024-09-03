@@ -1,0 +1,1737 @@
+DT_DX,AGE_CATEGORY,SEX,RACE_ETH,DT_REPORT,DX_NEW,INFECTED_CUMULATIVE,UNRECOVERED_NEW,UNRECOVERED_CUMULATIVE,SEVERE_NEW,SEVERE_CUMULATIVE
+29MAY2023,0-17,FEMALE,"White, Non-Hispanic",NA,15,15,0,0,0,0
+05JUN2023,0-17,FEMALE,"White, Non-Hispanic",NA,17,32,0,0,0,0
+12JUN2023,0-17,FEMALE,"White, Non-Hispanic",NA,23,55,0,0,0,0
+19JUN2023,0-17,FEMALE,"White, Non-Hispanic",NA,51,106,0,0,0,0
+26JUN2023,0-17,FEMALE,"White, Non-Hispanic",NA,67,173,1,1,0,0
+03JUL2023,0-17,FEMALE,"White, Non-Hispanic",NA,75,248,1,2,0,0
+10JUL2023,0-17,FEMALE,"White, Non-Hispanic",NA,106,354,4,6,0,0
+17JUL2023,0-17,FEMALE,"White, Non-Hispanic",NA,83,437,3,9,1,1
+24JUL2023,0-17,FEMALE,"White, Non-Hispanic",NA,91,528,1,10,0,1
+31JUL2023,0-17,FEMALE,"White, Non-Hispanic",NA,173,701,3,13,0,1
+07AUG2023,0-17,FEMALE,"White, Non-Hispanic",NA,162,863,2,15,0,1
+14AUG2023,0-17,FEMALE,"White, Non-Hispanic",NA,238,1101,4,19,0,1
+21AUG2023,0-17,FEMALE,"White, Non-Hispanic",NA,312,1413,6,25,0,1
+28AUG2023,0-17,FEMALE,"White, Non-Hispanic",NA,497,1910,5,30,0,1
+04SEP2023,0-17,FEMALE,"White, Non-Hispanic",NA,508,2418,9,39,0,1
+11SEP2023,0-17,FEMALE,"White, Non-Hispanic",NA,468,2886,7,46,0,1
+18SEP2023,0-17,FEMALE,"White, Non-Hispanic",NA,513,3399,6,52,0,1
+25SEP2023,0-17,FEMALE,"White, Non-Hispanic",NA,472,3871,7,59,0,1
+02OCT2023,0-17,FEMALE,"White, Non-Hispanic",NA,396,4267,12,71,1,2
+09OCT2023,0-17,FEMALE,"White, Non-Hispanic",NA,444,4711,5,76,2,4
+16OCT2023,0-17,FEMALE,"White, Non-Hispanic",NA,437,5148,16,92,0,4
+23OCT2023,0-17,FEMALE,"White, Non-Hispanic",NA,365,5513,5,97,0,4
+30OCT2023,0-17,FEMALE,"White, Non-Hispanic",NA,268,5781,10,107,1,5
+06NOV2023,0-17,FEMALE,"White, Non-Hispanic",NA,164,5945,4,111,0,5
+13NOV2023,0-17,FEMALE,"White, Non-Hispanic",NA,60,6005,4,115,0,5
+20NOV2023,0-17,FEMALE,"White, Non-Hispanic",NA,15,6020,0,115,0,5
+27NOV2023,0-17,FEMALE,"White, Non-Hispanic",NA,7,6027,0,115,0,5
+04DEC2023,0-17,FEMALE,"White, Non-Hispanic",NA,0,6027,0,115,0,5
+11DEC2023,0-17,FEMALE,"White, Non-Hispanic",NA,11,6038,0,115,0,5
+18DEC2023,0-17,FEMALE,"White, Non-Hispanic",NA,0,6038,0,115,0,5
+25DEC2023,0-17,FEMALE,"White, Non-Hispanic",NA,0,6038,0,115,0,5
+29MAY2023,0-17,FEMALE,"Black, Non-Hispanic",NA,8,8,0,0,0,0
+05JUN2023,0-17,FEMALE,"Black, Non-Hispanic",NA,3,11,1,1,0,0
+12JUN2023,0-17,FEMALE,"Black, Non-Hispanic",NA,5,16,0,1,0,0
+19JUN2023,0-17,FEMALE,"Black, Non-Hispanic",NA,16,32,0,1,0,0
+26JUN2023,0-17,FEMALE,"Black, Non-Hispanic",NA,22,54,0,1,0,0
+03JUL2023,0-17,FEMALE,"Black, Non-Hispanic",NA,42,96,1,2,0,0
+10JUL2023,0-17,FEMALE,"Black, Non-Hispanic",NA,40,136,1,3,0,0
+17JUL2023,0-17,FEMALE,"Black, Non-Hispanic",NA,33,169,1,4,0,0
+24JUL2023,0-17,FEMALE,"Black, Non-Hispanic",NA,31,200,0,4,1,1
+31JUL2023,0-17,FEMALE,"Black, Non-Hispanic",NA,68,268,1,5,0,1
+07AUG2023,0-17,FEMALE,"Black, Non-Hispanic",NA,58,326,0,5,0,1
+14AUG2023,0-17,FEMALE,"Black, Non-Hispanic",NA,85,411,0,5,0,1
+21AUG2023,0-17,FEMALE,"Black, Non-Hispanic",NA,124,535,2,7,0,1
+28AUG2023,0-17,FEMALE,"Black, Non-Hispanic",NA,170,705,3,10,0,1
+04SEP2023,0-17,FEMALE,"Black, Non-Hispanic",NA,174,879,3,13,0,1
+11SEP2023,0-17,FEMALE,"Black, Non-Hispanic",NA,163,1042,4,17,1,2
+18SEP2023,0-17,FEMALE,"Black, Non-Hispanic",NA,184,1226,2,19,0,2
+25SEP2023,0-17,FEMALE,"Black, Non-Hispanic",NA,169,1395,5,24,0,2
+02OCT2023,0-17,FEMALE,"Black, Non-Hispanic",NA,163,1558,5,29,0,2
+09OCT2023,0-17,FEMALE,"Black, Non-Hispanic",NA,170,1728,2,31,1,3
+16OCT2023,0-17,FEMALE,"Black, Non-Hispanic",NA,186,1914,6,37,0,3
+23OCT2023,0-17,FEMALE,"Black, Non-Hispanic",NA,145,2059,4,41,0,3
+30OCT2023,0-17,FEMALE,"Black, Non-Hispanic",NA,78,2137,5,46,0,3
+06NOV2023,0-17,FEMALE,"Black, Non-Hispanic",NA,59,2196,3,49,0,3
+13NOV2023,0-17,FEMALE,"Black, Non-Hispanic",NA,30,2226,3,52,0,3
+20NOV2023,0-17,FEMALE,"Black, Non-Hispanic",NA,0,2226,2,54,1,4
+27NOV2023,0-17,FEMALE,"Black, Non-Hispanic",NA,6,2232,0,54,0,4
+04DEC2023,0-17,FEMALE,"Black, Non-Hispanic",NA,0,2232,0,54,0,4
+11DEC2023,0-17,FEMALE,"Black, Non-Hispanic",NA,3,2235,0,54,0,4
+18DEC2023,0-17,FEMALE,"Black, Non-Hispanic",NA,0,2235,0,54,0,4
+25DEC2023,0-17,FEMALE,"Black, Non-Hispanic",NA,0,2235,0,54,0,4
+29MAY2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+05JUN2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+12JUN2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+19JUN2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+26JUN2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+03JUL2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,1,0,0,0,0
+10JUL2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,3,0,0,0,0
+17JUL2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,4,0,0,0,0
+24JUL2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,4,0,0,0,0
+31JUL2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,7,0,0,0,0
+07AUG2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,8,1,1,0,0
+14AUG2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,10,0,1,0,0
+21AUG2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,15,0,1,0,0
+28AUG2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,21,0,1,0,0
+04SEP2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,26,1,2,0,0
+11SEP2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,9,35,0,2,1,1
+18SEP2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,14,49,0,2,0,1
+25SEP2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,53,1,3,0,1
+02OCT2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,59,0,3,0,1
+09OCT2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,63,1,4,0,1
+16OCT2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,66,0,4,0,1
+23OCT2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,67,0,4,0,1
+30OCT2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,69,0,4,0,1
+06NOV2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,70,0,4,0,1
+13NOV2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,70,0,4,0,1
+20NOV2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,70,0,4,0,1
+27NOV2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,70,0,4,0,1
+04DEC2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,70,0,4,0,1
+11DEC2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,70,0,4,0,1
+18DEC2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,70,0,4,0,1
+25DEC2023,0-17,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,70,0,4,0,1
+29MAY2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,5,5,0,0,0,0
+05JUN2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,13,18,0,0,0,0
+12JUN2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,8,26,0,0,0,0
+19JUN2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,24,50,0,0,0,0
+26JUN2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,38,88,1,1,0,0
+03JUL2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,53,141,1,2,0,0
+10JUL2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,65,206,0,2,0,0
+17JUL2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,46,252,0,2,0,0
+24JUL2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,60,312,0,2,0,0
+31JUL2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,99,411,3,5,0,0
+07AUG2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,70,481,0,5,0,0
+14AUG2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,108,589,2,7,0,0
+21AUG2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,193,782,4,11,0,0
+28AUG2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,277,1059,4,15,0,0
+04SEP2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,221,1280,7,22,0,0
+11SEP2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,241,1521,4,26,0,0
+18SEP2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,295,1816,6,32,0,0
+25SEP2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,229,2045,3,35,1,1
+02OCT2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,220,2265,8,43,0,1
+09OCT2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,251,2516,4,47,0,1
+16OCT2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,234,2750,2,49,0,1
+23OCT2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,183,2933,4,53,0,1
+30OCT2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,134,3067,6,59,1,2
+06NOV2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,87,3154,4,63,2,4
+13NOV2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,33,3187,1,64,0,4
+20NOV2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,5,3192,2,66,0,4
+27NOV2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,7,3199,0,66,1,5
+04DEC2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,0,3199,0,66,0,5
+11DEC2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,7,3206,0,66,0,5
+18DEC2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,0,3206,0,66,0,5
+25DEC2023,0-17,FEMALE,"Asian, Non-Hispanic",NA,0,3206,0,66,0,5
+29MAY2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+05JUN2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+12JUN2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+19JUN2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,2,0,0,0,0
+26JUN2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,2,0,0,0,0
+03JUL2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,3,0,0,0,0
+10JUL2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,7,0,0,0,0
+17JUL2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,7,0,0,0,0
+24JUL2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,9,0,0,0,0
+31JUL2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,11,0,0,0,0
+07AUG2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,11,0,0,0,0
+14AUG2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,12,0,0,0,0
+21AUG2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,14,0,0,0,0
+28AUG2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,19,0,0,0,0
+04SEP2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,25,0,0,0,0
+11SEP2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,31,0,0,0,0
+18SEP2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,35,0,0,0,0
+25SEP2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,45,0,0,0,0
+02OCT2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,49,0,0,0,0
+09OCT2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,52,0,0,0,0
+16OCT2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,55,0,0,0,0
+23OCT2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,59,0,0,0,0
+30OCT2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,61,0,0,0,0
+06NOV2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,64,0,0,0,0
+13NOV2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,64,0,0,0,0
+20NOV2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,64,0,0,0,0
+27NOV2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,64,0,0,0,0
+04DEC2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,64,0,0,0,0
+11DEC2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,64,0,0,0,0
+18DEC2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,64,0,0,0,0
+25DEC2023,0-17,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,64,0,0,0,0
+29MAY2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,3,3,0,0,0,0
+05JUN2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,1,4,0,0,0,0
+12JUN2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,6,10,0,0,0,0
+19JUN2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,7,17,1,1,0,0
+26JUN2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,9,26,0,1,0,0
+03JUL2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,10,36,0,1,0,0
+10JUL2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,19,55,0,1,0,0
+17JUL2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,27,82,1,2,0,0
+24JUL2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,21,103,1,3,0,0
+31JUL2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,27,130,0,3,0,0
+07AUG2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,25,155,0,3,0,0
+14AUG2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,36,191,1,4,0,0
+21AUG2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,51,242,0,4,0,0
+28AUG2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,86,328,0,4,0,0
+04SEP2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,94,422,1,5,0,0
+11SEP2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,75,497,5,10,0,0
+18SEP2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,70,567,2,12,0,0
+25SEP2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,75,642,2,14,0,0
+02OCT2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,77,719,3,17,0,0
+09OCT2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,78,797,0,17,0,0
+16OCT2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,71,868,1,18,0,0
+23OCT2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,72,940,2,20,0,0
+30OCT2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,39,979,0,20,0,0
+06NOV2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,36,1015,2,22,0,0
+13NOV2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,7,1022,0,22,0,0
+20NOV2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,3,1025,0,22,0,0
+27NOV2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,1027,0,22,0,0
+04DEC2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1027,0,22,0,0
+11DEC2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,5,1032,0,22,0,0
+18DEC2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1032,0,22,0,0
+25DEC2023,0-17,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1032,0,22,0,0
+29MAY2023,0-17,FEMALE,Hispanic (any race),NA,41,41,0,0,0,0
+05JUN2023,0-17,FEMALE,Hispanic (any race),NA,42,83,2,2,0,0
+12JUN2023,0-17,FEMALE,Hispanic (any race),NA,42,125,0,2,1,1
+19JUN2023,0-17,FEMALE,Hispanic (any race),NA,142,267,1,3,0,1
+26JUN2023,0-17,FEMALE,Hispanic (any race),NA,189,456,1,4,0,1
+03JUL2023,0-17,FEMALE,Hispanic (any race),NA,239,695,4,8,0,1
+10JUL2023,0-17,FEMALE,Hispanic (any race),NA,312,1007,10,18,0,1
+17JUL2023,0-17,FEMALE,Hispanic (any race),NA,239,1246,5,23,0,1
+24JUL2023,0-17,FEMALE,Hispanic (any race),NA,255,1501,9,32,0,1
+31JUL2023,0-17,FEMALE,Hispanic (any race),NA,431,1932,4,36,1,2
+07AUG2023,0-17,FEMALE,Hispanic (any race),NA,491,2423,6,42,0,2
+14AUG2023,0-17,FEMALE,Hispanic (any race),NA,588,3011,8,50,0,2
+21AUG2023,0-17,FEMALE,Hispanic (any race),NA,876,3887,13,63,0,2
+28AUG2023,0-17,FEMALE,Hispanic (any race),NA,1387,5274,15,78,2,4
+04SEP2023,0-17,FEMALE,Hispanic (any race),NA,1394,6668,23,101,0,4
+11SEP2023,0-17,FEMALE,Hispanic (any race),NA,1280,7948,28,129,3,7
+18SEP2023,0-17,FEMALE,Hispanic (any race),NA,1424,9372,30,159,2,9
+25SEP2023,0-17,FEMALE,Hispanic (any race),NA,1296,10668,29,188,1,10
+02OCT2023,0-17,FEMALE,Hispanic (any race),NA,1272,11940,19,207,1,11
+09OCT2023,0-17,FEMALE,Hispanic (any race),NA,1221,13161,28,235,0,11
+16OCT2023,0-17,FEMALE,Hispanic (any race),NA,1239,14400,25,260,2,13
+23OCT2023,0-17,FEMALE,Hispanic (any race),NA,1005,15405,20,280,0,13
+30OCT2023,0-17,FEMALE,Hispanic (any race),NA,683,16088,12,292,1,14
+06NOV2023,0-17,FEMALE,Hispanic (any race),NA,487,16575,12,304,1,15
+13NOV2023,0-17,FEMALE,Hispanic (any race),NA,197,16772,13,317,0,15
+20NOV2023,0-17,FEMALE,Hispanic (any race),NA,19,16791,4,321,0,15
+27NOV2023,0-17,FEMALE,Hispanic (any race),NA,26,16817,2,323,0,15
+04DEC2023,0-17,FEMALE,Hispanic (any race),NA,0,16817,0,323,0,15
+11DEC2023,0-17,FEMALE,Hispanic (any race),NA,23,16840,0,323,0,15
+18DEC2023,0-17,FEMALE,Hispanic (any race),NA,0,16840,0,323,0,15
+25DEC2023,0-17,FEMALE,Hispanic (any race),NA,0,16840,0,323,0,15
+29MAY2023,0-17,MALE,"White, Non-Hispanic",NA,20,20,0,0,0,0
+05JUN2023,0-17,MALE,"White, Non-Hispanic",NA,14,34,0,0,0,0
+12JUN2023,0-17,MALE,"White, Non-Hispanic",NA,14,48,0,0,0,0
+19JUN2023,0-17,MALE,"White, Non-Hispanic",NA,42,90,0,0,0,0
+26JUN2023,0-17,MALE,"White, Non-Hispanic",NA,92,182,0,0,0,0
+03JUL2023,0-17,MALE,"White, Non-Hispanic",NA,105,287,2,2,0,0
+10JUL2023,0-17,MALE,"White, Non-Hispanic",NA,111,398,5,7,0,0
+17JUL2023,0-17,MALE,"White, Non-Hispanic",NA,93,491,3,10,0,0
+24JUL2023,0-17,MALE,"White, Non-Hispanic",NA,99,590,1,11,0,0
+31JUL2023,0-17,MALE,"White, Non-Hispanic",NA,159,749,1,12,0,0
+07AUG2023,0-17,MALE,"White, Non-Hispanic",NA,184,933,4,16,0,0
+14AUG2023,0-17,MALE,"White, Non-Hispanic",NA,177,1110,6,22,0,0
+21AUG2023,0-17,MALE,"White, Non-Hispanic",NA,351,1461,3,25,0,0
+28AUG2023,0-17,MALE,"White, Non-Hispanic",NA,504,1965,8,33,0,0
+04SEP2023,0-17,MALE,"White, Non-Hispanic",NA,532,2497,9,42,1,1
+11SEP2023,0-17,MALE,"White, Non-Hispanic",NA,457,2954,12,54,0,1
+18SEP2023,0-17,MALE,"White, Non-Hispanic",NA,569,3523,12,66,0,1
+25SEP2023,0-17,MALE,"White, Non-Hispanic",NA,451,3974,9,75,0,1
+02OCT2023,0-17,MALE,"White, Non-Hispanic",NA,456,4430,14,89,0,1
+09OCT2023,0-17,MALE,"White, Non-Hispanic",NA,445,4875,11,100,2,3
+16OCT2023,0-17,MALE,"White, Non-Hispanic",NA,510,5385,12,112,0,3
+23OCT2023,0-17,MALE,"White, Non-Hispanic",NA,384,5769,12,124,1,4
+30OCT2023,0-17,MALE,"White, Non-Hispanic",NA,262,6031,13,137,3,7
+06NOV2023,0-17,MALE,"White, Non-Hispanic",NA,168,6199,7,144,1,8
+13NOV2023,0-17,MALE,"White, Non-Hispanic",NA,62,6261,3,147,0,8
+20NOV2023,0-17,MALE,"White, Non-Hispanic",NA,11,6272,1,148,0,8
+27NOV2023,0-17,MALE,"White, Non-Hispanic",NA,7,6279,0,148,0,8
+04DEC2023,0-17,MALE,"White, Non-Hispanic",NA,0,6279,0,148,0,8
+11DEC2023,0-17,MALE,"White, Non-Hispanic",NA,8,6287,0,148,0,8
+18DEC2023,0-17,MALE,"White, Non-Hispanic",NA,0,6287,0,148,0,8
+25DEC2023,0-17,MALE,"White, Non-Hispanic",NA,0,6287,0,148,0,8
+29MAY2023,0-17,MALE,"Black, Non-Hispanic",NA,4,4,0,0,0,0
+05JUN2023,0-17,MALE,"Black, Non-Hispanic",NA,8,12,0,0,0,0
+12JUN2023,0-17,MALE,"Black, Non-Hispanic",NA,4,16,0,0,0,0
+19JUN2023,0-17,MALE,"Black, Non-Hispanic",NA,15,31,0,0,0,0
+26JUN2023,0-17,MALE,"Black, Non-Hispanic",NA,29,60,1,1,0,0
+03JUL2023,0-17,MALE,"Black, Non-Hispanic",NA,25,85,0,1,0,0
+10JUL2023,0-17,MALE,"Black, Non-Hispanic",NA,46,131,0,1,0,0
+17JUL2023,0-17,MALE,"Black, Non-Hispanic",NA,29,160,1,2,0,0
+24JUL2023,0-17,MALE,"Black, Non-Hispanic",NA,39,199,1,3,0,0
+31JUL2023,0-17,MALE,"Black, Non-Hispanic",NA,62,261,2,5,0,0
+07AUG2023,0-17,MALE,"Black, Non-Hispanic",NA,76,337,0,5,0,0
+14AUG2023,0-17,MALE,"Black, Non-Hispanic",NA,86,423,1,6,0,0
+21AUG2023,0-17,MALE,"Black, Non-Hispanic",NA,103,526,3,9,0,0
+28AUG2023,0-17,MALE,"Black, Non-Hispanic",NA,189,715,1,10,0,0
+04SEP2023,0-17,MALE,"Black, Non-Hispanic",NA,182,897,4,14,0,0
+11SEP2023,0-17,MALE,"Black, Non-Hispanic",NA,180,1077,2,16,0,0
+18SEP2023,0-17,MALE,"Black, Non-Hispanic",NA,203,1280,2,18,0,0
+25SEP2023,0-17,MALE,"Black, Non-Hispanic",NA,194,1474,6,24,0,0
+02OCT2023,0-17,MALE,"Black, Non-Hispanic",NA,199,1673,1,25,0,0
+09OCT2023,0-17,MALE,"Black, Non-Hispanic",NA,164,1837,4,29,0,0
+16OCT2023,0-17,MALE,"Black, Non-Hispanic",NA,154,1991,5,34,0,0
+23OCT2023,0-17,MALE,"Black, Non-Hispanic",NA,144,2135,1,35,1,1
+30OCT2023,0-17,MALE,"Black, Non-Hispanic",NA,93,2228,1,36,0,1
+06NOV2023,0-17,MALE,"Black, Non-Hispanic",NA,73,2301,3,39,0,1
+13NOV2023,0-17,MALE,"Black, Non-Hispanic",NA,19,2320,4,43,0,1
+20NOV2023,0-17,MALE,"Black, Non-Hispanic",NA,1,2321,0,43,0,1
+27NOV2023,0-17,MALE,"Black, Non-Hispanic",NA,4,2325,0,43,0,1
+04DEC2023,0-17,MALE,"Black, Non-Hispanic",NA,0,2325,1,44,0,1
+11DEC2023,0-17,MALE,"Black, Non-Hispanic",NA,8,2333,0,44,0,1
+18DEC2023,0-17,MALE,"Black, Non-Hispanic",NA,0,2333,0,44,0,1
+25DEC2023,0-17,MALE,"Black, Non-Hispanic",NA,0,2333,0,44,0,1
+29MAY2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+05JUN2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+12JUN2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+19JUN2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+26JUN2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+03JUL2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+10JUL2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+17JUL2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+24JUL2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+31JUL2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,2,0,0,0,0
+07AUG2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,4,0,0,0,0
+14AUG2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,5,0,0,0,0
+21AUG2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,8,0,0,0,0
+28AUG2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,13,0,0,0,0
+04SEP2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,17,0,0,0,0
+11SEP2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,20,0,0,0,0
+18SEP2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,24,0,0,0,0
+25SEP2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,27,0,0,0,0
+02OCT2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,30,0,0,0,0
+09OCT2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,35,0,0,0,0
+16OCT2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,41,1,1,0,0
+23OCT2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,44,0,1,1,1
+30OCT2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,45,1,2,0,1
+06NOV2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,48,0,2,0,1
+13NOV2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,48,0,2,0,1
+20NOV2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,48,0,2,0,1
+27NOV2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,48,0,2,0,1
+04DEC2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,48,0,2,0,1
+11DEC2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,48,0,2,0,1
+18DEC2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,48,0,2,0,1
+25DEC2023,0-17,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,48,0,2,0,1
+29MAY2023,0-17,MALE,"Asian, Non-Hispanic",NA,7,7,0,0,0,0
+05JUN2023,0-17,MALE,"Asian, Non-Hispanic",NA,6,13,0,0,0,0
+12JUN2023,0-17,MALE,"Asian, Non-Hispanic",NA,8,21,0,0,0,0
+19JUN2023,0-17,MALE,"Asian, Non-Hispanic",NA,24,45,0,0,0,0
+26JUN2023,0-17,MALE,"Asian, Non-Hispanic",NA,45,90,0,0,0,0
+03JUL2023,0-17,MALE,"Asian, Non-Hispanic",NA,55,145,0,0,0,0
+10JUL2023,0-17,MALE,"Asian, Non-Hispanic",NA,68,213,1,1,0,0
+17JUL2023,0-17,MALE,"Asian, Non-Hispanic",NA,38,251,0,1,0,0
+24JUL2023,0-17,MALE,"Asian, Non-Hispanic",NA,52,303,0,1,0,0
+31JUL2023,0-17,MALE,"Asian, Non-Hispanic",NA,105,408,0,1,0,0
+07AUG2023,0-17,MALE,"Asian, Non-Hispanic",NA,94,502,0,1,0,0
+14AUG2023,0-17,MALE,"Asian, Non-Hispanic",NA,128,630,2,3,0,0
+21AUG2023,0-17,MALE,"Asian, Non-Hispanic",NA,183,813,4,7,0,0
+28AUG2023,0-17,MALE,"Asian, Non-Hispanic",NA,259,1072,1,8,0,0
+04SEP2023,0-17,MALE,"Asian, Non-Hispanic",NA,277,1349,6,14,0,0
+11SEP2023,0-17,MALE,"Asian, Non-Hispanic",NA,261,1610,3,17,0,0
+18SEP2023,0-17,MALE,"Asian, Non-Hispanic",NA,281,1891,7,24,0,0
+25SEP2023,0-17,MALE,"Asian, Non-Hispanic",NA,256,2147,9,33,0,0
+02OCT2023,0-17,MALE,"Asian, Non-Hispanic",NA,213,2360,10,43,0,0
+09OCT2023,0-17,MALE,"Asian, Non-Hispanic",NA,212,2572,4,47,0,0
+16OCT2023,0-17,MALE,"Asian, Non-Hispanic",NA,251,2823,2,49,0,0
+23OCT2023,0-17,MALE,"Asian, Non-Hispanic",NA,214,3037,9,58,0,0
+30OCT2023,0-17,MALE,"Asian, Non-Hispanic",NA,129,3166,3,61,1,1
+06NOV2023,0-17,MALE,"Asian, Non-Hispanic",NA,123,3289,2,63,0,1
+13NOV2023,0-17,MALE,"Asian, Non-Hispanic",NA,34,3323,0,63,0,1
+20NOV2023,0-17,MALE,"Asian, Non-Hispanic",NA,0,3323,1,64,0,1
+27NOV2023,0-17,MALE,"Asian, Non-Hispanic",NA,10,3333,0,64,0,1
+04DEC2023,0-17,MALE,"Asian, Non-Hispanic",NA,0,3333,0,64,0,1
+11DEC2023,0-17,MALE,"Asian, Non-Hispanic",NA,8,3341,0,64,0,1
+18DEC2023,0-17,MALE,"Asian, Non-Hispanic",NA,0,3341,0,64,0,1
+25DEC2023,0-17,MALE,"Asian, Non-Hispanic",NA,0,3341,0,64,0,1
+29MAY2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,1,0,0,0,0
+05JUN2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,2,0,0,0,0
+12JUN2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,2,0,0,0,0
+19JUN2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,2,0,0,0,0
+26JUN2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,2,0,0,0,0
+03JUL2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,2,0,0,0,0
+10JUL2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,3,0,0,0,0
+17JUL2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,4,0,0,0,0
+24JUL2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,5,0,0,0,0
+31JUL2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,6,0,0,0,0
+07AUG2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,7,0,0,0,0
+14AUG2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,8,0,0,0,0
+21AUG2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,7,15,0,0,0,0
+28AUG2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,8,23,0,0,0,0
+04SEP2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,8,31,0,0,0,0
+11SEP2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,35,0,0,0,0
+18SEP2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,38,0,0,0,0
+25SEP2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,42,0,0,0,0
+02OCT2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,47,0,0,0,0
+09OCT2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,53,0,0,0,0
+16OCT2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,58,0,0,0,0
+23OCT2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,62,0,0,0,0
+30OCT2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,65,0,0,0,0
+06NOV2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,68,0,0,0,0
+13NOV2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,68,0,0,0,0
+20NOV2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,68,0,0,0,0
+27NOV2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,68,0,0,0,0
+04DEC2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,68,0,0,0,0
+11DEC2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,69,0,0,0,0
+18DEC2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,69,0,0,0,0
+25DEC2023,0-17,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,69,0,0,0,0
+29MAY2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,2,0,0,0,0
+05JUN2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,1,3,0,0,0,0
+12JUN2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,1,4,0,0,0,0
+19JUN2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,13,17,0,0,0,0
+26JUN2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,11,28,0,0,0,0
+03JUL2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,23,51,0,0,0,0
+10JUL2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,21,72,0,0,0,0
+17JUL2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,20,92,0,0,0,0
+24JUL2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,16,108,0,0,0,0
+31JUL2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,28,136,0,0,0,0
+07AUG2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,26,162,1,1,0,0
+14AUG2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,30,192,1,2,0,0
+21AUG2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,66,258,2,4,0,0
+28AUG2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,77,335,1,5,0,0
+04SEP2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,80,415,1,6,0,0
+11SEP2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,84,499,0,6,0,0
+18SEP2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,79,578,4,10,0,0
+25SEP2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,85,663,3,13,1,1
+02OCT2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,89,752,1,14,0,1
+09OCT2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,60,812,1,15,0,1
+16OCT2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,66,878,1,16,0,1
+23OCT2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,75,953,2,18,0,1
+30OCT2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,45,998,1,19,0,1
+06NOV2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,24,1022,1,20,0,1
+13NOV2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,9,1031,1,21,0,1
+20NOV2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,1033,0,21,0,1
+27NOV2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,3,1036,0,21,0,1
+04DEC2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1036,0,21,0,1
+11DEC2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,1038,0,21,0,1
+18DEC2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1038,0,21,0,1
+25DEC2023,0-17,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1038,0,21,0,1
+29MAY2023,0-17,MALE,Hispanic (any race),NA,56,56,0,0,0,0
+05JUN2023,0-17,MALE,Hispanic (any race),NA,41,97,2,2,0,0
+12JUN2023,0-17,MALE,Hispanic (any race),NA,47,144,1,3,0,0
+19JUN2023,0-17,MALE,Hispanic (any race),NA,130,274,2,5,1,1
+26JUN2023,0-17,MALE,Hispanic (any race),NA,185,459,0,5,0,1
+03JUL2023,0-17,MALE,Hispanic (any race),NA,257,716,1,6,0,1
+10JUL2023,0-17,MALE,Hispanic (any race),NA,318,1034,6,12,0,1
+17JUL2023,0-17,MALE,Hispanic (any race),NA,251,1285,9,21,0,1
+24JUL2023,0-17,MALE,Hispanic (any race),NA,277,1562,5,26,0,1
+31JUL2023,0-17,MALE,Hispanic (any race),NA,493,2055,6,32,0,1
+07AUG2023,0-17,MALE,Hispanic (any race),NA,492,2547,8,40,1,2
+14AUG2023,0-17,MALE,Hispanic (any race),NA,593,3140,15,55,0,2
+21AUG2023,0-17,MALE,Hispanic (any race),NA,908,4048,12,67,1,3
+28AUG2023,0-17,MALE,Hispanic (any race),NA,1466,5514,14,81,1,4
+04SEP2023,0-17,MALE,Hispanic (any race),NA,1448,6962,41,122,0,4
+11SEP2023,0-17,MALE,Hispanic (any race),NA,1322,8284,27,149,3,7
+18SEP2023,0-17,MALE,Hispanic (any race),NA,1538,9822,31,180,2,9
+25SEP2023,0-17,MALE,Hispanic (any race),NA,1236,11058,33,213,0,9
+02OCT2023,0-17,MALE,Hispanic (any race),NA,1339,12397,30,243,1,10
+09OCT2023,0-17,MALE,Hispanic (any race),NA,1299,13696,33,276,3,13
+16OCT2023,0-17,MALE,Hispanic (any race),NA,1290,14986,29,305,3,16
+23OCT2023,0-17,MALE,Hispanic (any race),NA,1055,16041,27,332,0,16
+30OCT2023,0-17,MALE,Hispanic (any race),NA,730,16771,22,354,1,17
+06NOV2023,0-17,MALE,Hispanic (any race),NA,524,17295,14,368,0,17
+13NOV2023,0-17,MALE,Hispanic (any race),NA,191,17486,12,380,1,18
+20NOV2023,0-17,MALE,Hispanic (any race),NA,24,17510,3,383,1,19
+27NOV2023,0-17,MALE,Hispanic (any race),NA,37,17547,0,383,0,19
+04DEC2023,0-17,MALE,Hispanic (any race),NA,0,17547,0,383,0,19
+11DEC2023,0-17,MALE,Hispanic (any race),NA,28,17575,0,383,0,19
+18DEC2023,0-17,MALE,Hispanic (any race),NA,0,17575,1,384,0,19
+25DEC2023,0-17,MALE,Hispanic (any race),NA,0,17575,0,384,0,19
+29MAY2023,18-49,FEMALE,"White, Non-Hispanic",NA,132,132,0,0,0,0
+05JUN2023,18-49,FEMALE,"White, Non-Hispanic",NA,119,251,8,8,0,0
+12JUN2023,18-49,FEMALE,"White, Non-Hispanic",NA,130,381,5,13,3,3
+19JUN2023,18-49,FEMALE,"White, Non-Hispanic",NA,387,768,9,22,2,5
+26JUN2023,18-49,FEMALE,"White, Non-Hispanic",NA,617,1385,23,45,1,6
+03JUL2023,18-49,FEMALE,"White, Non-Hispanic",NA,739,2124,30,75,5,11
+10JUL2023,18-49,FEMALE,"White, Non-Hispanic",NA,914,3038,38,113,5,16
+17JUL2023,18-49,FEMALE,"White, Non-Hispanic",NA,744,3782,44,157,9,25
+24JUL2023,18-49,FEMALE,"White, Non-Hispanic",NA,810,4592,44,201,10,35
+31JUL2023,18-49,FEMALE,"White, Non-Hispanic",NA,1397,5989,32,233,9,44
+07AUG2023,18-49,FEMALE,"White, Non-Hispanic",NA,1454,7443,66,299,9,53
+14AUG2023,18-49,FEMALE,"White, Non-Hispanic",NA,1778,9221,72,371,14,67
+21AUG2023,18-49,FEMALE,"White, Non-Hispanic",NA,2601,11822,102,473,18,85
+28AUG2023,18-49,FEMALE,"White, Non-Hispanic",NA,4142,15964,126,599,26,111
+04SEP2023,18-49,FEMALE,"White, Non-Hispanic",NA,4078,20042,202,801,31,142
+11SEP2023,18-49,FEMALE,"White, Non-Hispanic",NA,3772,23814,214,1015,44,186
+18SEP2023,18-49,FEMALE,"White, Non-Hispanic",NA,4385,28199,196,1211,41,227
+25SEP2023,18-49,FEMALE,"White, Non-Hispanic",NA,3617,31816,224,1435,46,273
+02OCT2023,18-49,FEMALE,"White, Non-Hispanic",NA,3697,35513,206,1641,60,333
+09OCT2023,18-49,FEMALE,"White, Non-Hispanic",NA,3578,39091,208,1849,49,382
+16OCT2023,18-49,FEMALE,"White, Non-Hispanic",NA,3680,42771,178,2027,49,431
+23OCT2023,18-49,FEMALE,"White, Non-Hispanic",NA,2883,45654,177,2204,43,474
+30OCT2023,18-49,FEMALE,"White, Non-Hispanic",NA,1989,47643,147,2351,32,506
+06NOV2023,18-49,FEMALE,"White, Non-Hispanic",NA,1450,49093,111,2462,36,542
+13NOV2023,18-49,FEMALE,"White, Non-Hispanic",NA,492,49585,82,2544,21,563
+20NOV2023,18-49,FEMALE,"White, Non-Hispanic",NA,62,49647,28,2572,26,589
+27NOV2023,18-49,FEMALE,"White, Non-Hispanic",NA,98,49745,7,2579,10,599
+04DEC2023,18-49,FEMALE,"White, Non-Hispanic",NA,0,49745,5,2584,1,600
+11DEC2023,18-49,FEMALE,"White, Non-Hispanic",NA,81,49826,0,2584,1,601
+18DEC2023,18-49,FEMALE,"White, Non-Hispanic",NA,0,49826,7,2591,0,601
+25DEC2023,18-49,FEMALE,"White, Non-Hispanic",NA,0,49826,0,2591,3,604
+29MAY2023,18-49,FEMALE,"Black, Non-Hispanic",NA,55,55,0,0,0,0
+05JUN2023,18-49,FEMALE,"Black, Non-Hispanic",NA,65,120,1,1,0,0
+12JUN2023,18-49,FEMALE,"Black, Non-Hispanic",NA,35,155,2,3,0,0
+19JUN2023,18-49,FEMALE,"Black, Non-Hispanic",NA,138,293,1,4,1,1
+26JUN2023,18-49,FEMALE,"Black, Non-Hispanic",NA,224,517,5,9,1,2
+03JUL2023,18-49,FEMALE,"Black, Non-Hispanic",NA,309,826,8,17,1,3
+10JUL2023,18-49,FEMALE,"Black, Non-Hispanic",NA,390,1216,19,36,1,4
+17JUL2023,18-49,FEMALE,"Black, Non-Hispanic",NA,290,1506,21,57,5,9
+24JUL2023,18-49,FEMALE,"Black, Non-Hispanic",NA,299,1805,13,70,5,14
+31JUL2023,18-49,FEMALE,"Black, Non-Hispanic",NA,518,2323,11,81,2,16
+07AUG2023,18-49,FEMALE,"Black, Non-Hispanic",NA,553,2876,33,114,2,18
+14AUG2023,18-49,FEMALE,"Black, Non-Hispanic",NA,706,3582,30,144,8,26
+21AUG2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1051,4633,38,182,7,33
+28AUG2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1521,6154,55,237,11,44
+04SEP2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1593,7747,80,317,18,62
+11SEP2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1441,9188,101,418,19,81
+18SEP2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1629,10817,82,500,28,109
+25SEP2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1349,12166,86,586,16,125
+02OCT2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1341,13507,75,661,18,143
+09OCT2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1374,14881,80,741,11,154
+16OCT2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1303,16184,73,814,17,171
+23OCT2023,18-49,FEMALE,"Black, Non-Hispanic",NA,1107,17291,75,889,14,185
+30OCT2023,18-49,FEMALE,"Black, Non-Hispanic",NA,776,18067,69,958,12,197
+06NOV2023,18-49,FEMALE,"Black, Non-Hispanic",NA,561,18628,45,1003,20,217
+13NOV2023,18-49,FEMALE,"Black, Non-Hispanic",NA,201,18829,25,1028,13,230
+20NOV2023,18-49,FEMALE,"Black, Non-Hispanic",NA,27,18856,15,1043,6,236
+27NOV2023,18-49,FEMALE,"Black, Non-Hispanic",NA,37,18893,1,1044,4,240
+04DEC2023,18-49,FEMALE,"Black, Non-Hispanic",NA,0,18893,1,1045,1,241
+11DEC2023,18-49,FEMALE,"Black, Non-Hispanic",NA,28,18921,0,1045,0,241
+18DEC2023,18-49,FEMALE,"Black, Non-Hispanic",NA,0,18921,1,1046,0,241
+25DEC2023,18-49,FEMALE,"Black, Non-Hispanic",NA,0,18921,0,1046,0,241
+29MAY2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,2,0,0,0,0
+05JUN2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,3,0,0,0,0
+12JUN2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,3,0,0,0,0
+19JUN2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,7,0,0,0,0
+26JUN2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,11,1,1,0,0
+03JUL2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,16,0,1,0,0
+10JUL2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,13,29,0,1,0,0
+17JUL2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,33,1,2,0,0
+24JUL2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,36,1,3,0,0
+31JUL2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,15,51,0,3,0,0
+07AUG2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,17,68,0,3,0,0
+14AUG2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,10,78,0,3,0,0
+21AUG2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,27,105,1,4,0,0
+28AUG2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,38,143,1,5,0,0
+04SEP2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,36,179,1,6,1,1
+11SEP2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,28,207,3,9,1,2
+18SEP2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,42,249,3,12,1,3
+25SEP2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,31,280,1,13,2,5
+02OCT2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,29,309,0,13,0,5
+09OCT2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,30,339,4,17,0,5
+16OCT2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,26,365,0,17,2,7
+23OCT2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,23,388,3,20,0,7
+30OCT2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,20,408,2,22,1,8
+06NOV2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,413,2,24,0,8
+13NOV2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,416,1,25,0,8
+20NOV2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,416,1,26,0,8
+27NOV2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,417,0,26,0,8
+04DEC2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,417,0,26,0,8
+11DEC2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,417,0,26,0,8
+18DEC2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,417,0,26,0,8
+25DEC2023,18-49,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,417,0,26,0,8
+29MAY2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,83,83,0,0,0,0
+05JUN2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,84,167,2,2,0,0
+12JUN2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,81,248,5,7,1,1
+19JUN2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,201,449,3,10,1,2
+26JUN2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,353,802,6,16,0,2
+03JUL2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,436,1238,14,30,1,3
+10JUL2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,598,1836,26,56,6,9
+17JUL2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,429,2265,27,83,8,17
+24JUL2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,485,2750,17,100,4,21
+31JUL2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,802,3552,28,128,2,23
+07AUG2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,811,4363,43,171,9,32
+14AUG2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,1053,5416,42,213,8,40
+21AUG2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,1604,7020,65,278,13,53
+28AUG2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2395,9415,86,364,15,68
+04SEP2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2340,11755,130,494,23,91
+11SEP2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2206,13961,113,607,26,117
+18SEP2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2520,16481,122,729,21,138
+25SEP2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2040,18521,141,870,20,158
+02OCT2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2110,20631,114,984,32,190
+09OCT2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2064,22695,105,1089,19,209
+16OCT2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,2126,24821,102,1191,29,238
+23OCT2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,1691,26512,108,1299,25,263
+30OCT2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,1165,27677,94,1393,28,291
+06NOV2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,793,28470,61,1454,20,311
+13NOV2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,261,28731,45,1499,11,322
+20NOV2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,39,28770,18,1517,9,331
+27NOV2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,53,28823,6,1523,4,335
+04DEC2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,0,28823,5,1528,1,336
+11DEC2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,61,28884,0,1528,2,338
+18DEC2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,0,28884,2,1530,0,338
+25DEC2023,18-49,FEMALE,"Asian, Non-Hispanic",NA,0,28884,0,1530,1,339
+29MAY2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,2,0,0,0,0
+05JUN2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,3,0,0,0,0
+12JUN2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,3,0,0,0,0
+19JUN2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,6,0,0,0,0
+26JUN2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,11,0,0,0,0
+03JUL2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,17,0,0,0,0
+10JUL2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,13,30,0,0,0,0
+17JUL2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,8,38,1,1,0,0
+24JUL2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,11,49,1,2,0,0
+31JUL2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,18,67,0,2,0,0
+07AUG2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,11,78,1,3,0,0
+14AUG2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,15,93,0,3,0,0
+21AUG2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,30,123,0,3,0,0
+28AUG2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,53,176,0,3,0,0
+04SEP2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,48,224,1,4,0,0
+11SEP2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,42,266,3,7,1,1
+18SEP2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,57,323,5,12,1,2
+25SEP2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,47,370,3,15,0,2
+02OCT2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,43,413,3,18,0,2
+09OCT2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,42,455,0,18,1,3
+16OCT2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,53,508,0,18,0,3
+23OCT2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,35,543,4,22,0,3
+30OCT2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,553,2,24,4,7
+06NOV2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,20,573,0,24,1,8
+13NOV2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,578,2,26,0,8
+20NOV2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,578,0,26,0,8
+27NOV2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,582,0,26,0,8
+04DEC2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,582,0,26,0,8
+11DEC2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,582,0,26,0,8
+18DEC2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,582,0,26,0,8
+25DEC2023,18-49,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,582,0,26,0,8
+29MAY2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,12,12,0,0,0,0
+05JUN2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,25,37,0,0,0,0
+12JUN2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,13,50,1,1,0,0
+19JUN2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,36,86,2,3,1,1
+26JUN2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,71,157,1,4,0,1
+03JUL2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,62,219,3,7,0,1
+10JUL2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,89,308,2,9,0,1
+17JUL2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,85,393,6,15,0,1
+24JUL2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,92,485,5,20,2,3
+31JUL2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,163,648,4,24,0,3
+07AUG2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,160,808,9,33,0,3
+14AUG2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,198,1006,7,40,2,5
+21AUG2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,283,1289,15,55,3,8
+28AUG2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,440,1729,18,73,4,12
+04SEP2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,466,2195,33,106,8,20
+11SEP2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,449,2644,26,132,5,25
+18SEP2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,486,3130,27,159,11,36
+25SEP2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,369,3499,27,186,4,40
+02OCT2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,389,3888,17,203,4,44
+09OCT2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,390,4278,23,226,5,49
+16OCT2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,396,4674,17,243,4,53
+23OCT2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,316,4990,23,266,5,58
+30OCT2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,237,5227,16,282,7,65
+06NOV2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,149,5376,9,291,4,69
+13NOV2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,49,5425,7,298,3,72
+20NOV2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,4,5429,4,302,1,73
+27NOV2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,12,5441,1,303,2,75
+04DEC2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,5441,2,305,0,75
+11DEC2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,9,5450,0,305,0,75
+18DEC2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,5450,0,305,0,75
+25DEC2023,18-49,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,5450,0,305,0,75
+29MAY2023,18-49,FEMALE,Hispanic (any race),NA,423,423,0,0,0,0
+05JUN2023,18-49,FEMALE,Hispanic (any race),NA,405,828,22,22,0,0
+12JUN2023,18-49,FEMALE,Hispanic (any race),NA,359,1187,20,42,6,6
+19JUN2023,18-49,FEMALE,Hispanic (any race),NA,1010,2197,17,59,7,13
+26JUN2023,18-49,FEMALE,Hispanic (any race),NA,1566,3763,43,102,6,19
+03JUL2023,18-49,FEMALE,Hispanic (any race),NA,1980,5743,87,189,13,32
+10JUL2023,18-49,FEMALE,Hispanic (any race),NA,2547,8290,110,299,18,50
+17JUL2023,18-49,FEMALE,Hispanic (any race),NA,2044,10334,138,437,25,75
+24JUL2023,18-49,FEMALE,Hispanic (any race),NA,2104,12438,100,537,25,100
+31JUL2023,18-49,FEMALE,Hispanic (any race),NA,3608,16046,104,641,23,123
+07AUG2023,18-49,FEMALE,Hispanic (any race),NA,3672,19718,182,823,25,148
+14AUG2023,18-49,FEMALE,Hispanic (any race),NA,4692,24410,186,1009,44,192
+21AUG2023,18-49,FEMALE,Hispanic (any race),NA,6949,31359,244,1253,34,226
+28AUG2023,18-49,FEMALE,Hispanic (any race),NA,10723,42082,349,1602,48,274
+04SEP2023,18-49,FEMALE,Hispanic (any race),NA,10669,52751,563,2165,69,343
+11SEP2023,18-49,FEMALE,Hispanic (any race),NA,9961,62712,556,2721,125,468
+18SEP2023,18-49,FEMALE,Hispanic (any race),NA,11314,74026,509,3230,141,609
+25SEP2023,18-49,FEMALE,Hispanic (any race),NA,9380,83406,555,3785,119,728
+02OCT2023,18-49,FEMALE,Hispanic (any race),NA,9532,92938,487,4272,117,845
+09OCT2023,18-49,FEMALE,Hispanic (any race),NA,9250,102188,475,4747,103,948
+16OCT2023,18-49,FEMALE,Hispanic (any race),NA,9503,111691,474,5221,110,1058
+23OCT2023,18-49,FEMALE,Hispanic (any race),NA,7681,119372,521,5742,108,1166
+30OCT2023,18-49,FEMALE,Hispanic (any race),NA,5054,124426,436,6178,130,1296
+06NOV2023,18-49,FEMALE,Hispanic (any race),NA,3796,128222,276,6454,95,1391
+13NOV2023,18-49,FEMALE,Hispanic (any race),NA,1268,129490,197,6651,62,1453
+20NOV2023,18-49,FEMALE,Hispanic (any race),NA,156,129646,85,6736,42,1495
+27NOV2023,18-49,FEMALE,Hispanic (any race),NA,204,129850,5,6741,15,1510
+04DEC2023,18-49,FEMALE,Hispanic (any race),NA,0,129850,11,6752,2,1512
+11DEC2023,18-49,FEMALE,Hispanic (any race),NA,240,130090,1,6753,3,1515
+18DEC2023,18-49,FEMALE,Hispanic (any race),NA,0,130090,9,6762,0,1515
+25DEC2023,18-49,FEMALE,Hispanic (any race),NA,0,130090,1,6763,3,1518
+29MAY2023,18-49,MALE,"White, Non-Hispanic",NA,147,147,0,0,0,0
+05JUN2023,18-49,MALE,"White, Non-Hispanic",NA,170,317,4,4,0,0
+12JUN2023,18-49,MALE,"White, Non-Hispanic",NA,159,476,12,16,0,0
+19JUN2023,18-49,MALE,"White, Non-Hispanic",NA,405,881,9,25,3,3
+26JUN2023,18-49,MALE,"White, Non-Hispanic",NA,684,1565,24,49,1,4
+03JUL2023,18-49,MALE,"White, Non-Hispanic",NA,733,2298,49,98,5,9
+10JUL2023,18-49,MALE,"White, Non-Hispanic",NA,1036,3334,37,135,8,17
+17JUL2023,18-49,MALE,"White, Non-Hispanic",NA,818,4152,44,179,10,27
+24JUL2023,18-49,MALE,"White, Non-Hispanic",NA,886,5038,48,227,10,37
+31JUL2023,18-49,MALE,"White, Non-Hispanic",NA,1498,6536,42,269,13,50
+07AUG2023,18-49,MALE,"White, Non-Hispanic",NA,1483,8019,72,341,11,61
+14AUG2023,18-49,MALE,"White, Non-Hispanic",NA,1987,10006,68,409,14,75
+21AUG2023,18-49,MALE,"White, Non-Hispanic",NA,2876,12882,102,511,17,92
+28AUG2023,18-49,MALE,"White, Non-Hispanic",NA,4608,17490,155,666,19,111
+04SEP2023,18-49,MALE,"White, Non-Hispanic",NA,4335,21825,231,897,25,136
+11SEP2023,18-49,MALE,"White, Non-Hispanic",NA,3994,25819,241,1138,53,189
+18SEP2023,18-49,MALE,"White, Non-Hispanic",NA,4526,30345,212,1350,49,238
+25SEP2023,18-49,MALE,"White, Non-Hispanic",NA,3959,34304,246,1596,40,278
+02OCT2023,18-49,MALE,"White, Non-Hispanic",NA,3904,38208,204,1800,58,336
+09OCT2023,18-49,MALE,"White, Non-Hispanic",NA,3801,42009,234,2034,41,377
+16OCT2023,18-49,MALE,"White, Non-Hispanic",NA,3944,45953,191,2225,58,435
+23OCT2023,18-49,MALE,"White, Non-Hispanic",NA,3152,49105,201,2426,57,492
+30OCT2023,18-49,MALE,"White, Non-Hispanic",NA,2170,51275,167,2593,41,533
+06NOV2023,18-49,MALE,"White, Non-Hispanic",NA,1603,52878,114,2707,43,576
+13NOV2023,18-49,MALE,"White, Non-Hispanic",NA,489,53367,81,2788,22,598
+20NOV2023,18-49,MALE,"White, Non-Hispanic",NA,81,53448,23,2811,20,618
+27NOV2023,18-49,MALE,"White, Non-Hispanic",NA,91,53539,4,2815,9,627
+04DEC2023,18-49,MALE,"White, Non-Hispanic",NA,0,53539,4,2819,1,628
+11DEC2023,18-49,MALE,"White, Non-Hispanic",NA,77,53616,0,2819,1,629
+18DEC2023,18-49,MALE,"White, Non-Hispanic",NA,0,53616,2,2821,0,629
+25DEC2023,18-49,MALE,"White, Non-Hispanic",NA,0,53616,0,2821,0,629
+29MAY2023,18-49,MALE,"Black, Non-Hispanic",NA,47,47,0,0,0,0
+05JUN2023,18-49,MALE,"Black, Non-Hispanic",NA,46,93,1,1,0,0
+12JUN2023,18-49,MALE,"Black, Non-Hispanic",NA,55,148,2,3,0,0
+19JUN2023,18-49,MALE,"Black, Non-Hispanic",NA,127,275,2,5,1,1
+26JUN2023,18-49,MALE,"Black, Non-Hispanic",NA,257,532,7,12,1,2
+03JUL2023,18-49,MALE,"Black, Non-Hispanic",NA,274,806,11,23,2,4
+10JUL2023,18-49,MALE,"Black, Non-Hispanic",NA,358,1164,17,40,2,6
+17JUL2023,18-49,MALE,"Black, Non-Hispanic",NA,279,1443,20,60,4,10
+24JUL2023,18-49,MALE,"Black, Non-Hispanic",NA,343,1786,20,80,5,15
+31JUL2023,18-49,MALE,"Black, Non-Hispanic",NA,547,2333,10,90,3,18
+07AUG2023,18-49,MALE,"Black, Non-Hispanic",NA,528,2861,21,111,3,21
+14AUG2023,18-49,MALE,"Black, Non-Hispanic",NA,666,3527,23,134,6,27
+21AUG2023,18-49,MALE,"Black, Non-Hispanic",NA,1024,4551,33,167,2,29
+28AUG2023,18-49,MALE,"Black, Non-Hispanic",NA,1598,6149,69,236,4,33
+04SEP2023,18-49,MALE,"Black, Non-Hispanic",NA,1464,7613,81,317,7,40
+11SEP2023,18-49,MALE,"Black, Non-Hispanic",NA,1416,9029,83,400,16,56
+18SEP2023,18-49,MALE,"Black, Non-Hispanic",NA,1690,10719,80,480,24,80
+25SEP2023,18-49,MALE,"Black, Non-Hispanic",NA,1312,12031,87,567,16,96
+02OCT2023,18-49,MALE,"Black, Non-Hispanic",NA,1338,13369,76,643,15,111
+09OCT2023,18-49,MALE,"Black, Non-Hispanic",NA,1406,14775,74,717,16,127
+16OCT2023,18-49,MALE,"Black, Non-Hispanic",NA,1389,16164,71,788,14,141
+23OCT2023,18-49,MALE,"Black, Non-Hispanic",NA,1083,17247,76,864,17,158
+30OCT2023,18-49,MALE,"Black, Non-Hispanic",NA,763,18010,62,926,13,171
+06NOV2023,18-49,MALE,"Black, Non-Hispanic",NA,519,18529,39,965,17,188
+13NOV2023,18-49,MALE,"Black, Non-Hispanic",NA,199,18728,21,986,3,191
+20NOV2023,18-49,MALE,"Black, Non-Hispanic",NA,22,18750,8,994,4,195
+27NOV2023,18-49,MALE,"Black, Non-Hispanic",NA,41,18791,1,995,3,198
+04DEC2023,18-49,MALE,"Black, Non-Hispanic",NA,0,18791,0,995,0,198
+11DEC2023,18-49,MALE,"Black, Non-Hispanic",NA,35,18826,0,995,0,198
+18DEC2023,18-49,MALE,"Black, Non-Hispanic",NA,0,18826,1,996,0,198
+25DEC2023,18-49,MALE,"Black, Non-Hispanic",NA,0,18826,0,996,0,198
+29MAY2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,1,0,0,0,0
+05JUN2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,5,0,0,0,0
+12JUN2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,5,0,0,0,0
+19JUN2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,8,0,0,0,0
+26JUN2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,8,16,0,0,0,0
+03JUL2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,17,1,1,0,0
+10JUL2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,9,26,0,1,0,0
+17JUL2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,9,35,1,2,0,0
+24JUL2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,41,1,3,0,0
+31JUL2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,9,50,0,3,1,1
+07AUG2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,54,1,4,0,1
+14AUG2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,14,68,0,4,0,1
+21AUG2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,27,95,1,5,0,1
+28AUG2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,30,125,1,6,0,1
+04SEP2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,30,155,2,8,0,1
+11SEP2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,25,180,2,10,2,3
+18SEP2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,29,209,1,11,0,3
+25SEP2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,31,240,1,12,0,3
+02OCT2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,30,270,2,14,0,3
+09OCT2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,24,294,1,15,0,3
+16OCT2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,31,325,1,16,0,3
+23OCT2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,26,351,2,18,0,3
+30OCT2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,25,376,1,19,0,3
+06NOV2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,13,389,0,19,0,3
+13NOV2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,8,397,0,19,0,3
+20NOV2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,398,0,19,0,3
+27NOV2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,398,0,19,0,3
+04DEC2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,398,0,19,0,3
+11DEC2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,398,0,19,0,3
+18DEC2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,398,0,19,0,3
+25DEC2023,18-49,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,398,0,19,0,3
+29MAY2023,18-49,MALE,"Asian, Non-Hispanic",NA,89,89,0,0,0,0
+05JUN2023,18-49,MALE,"Asian, Non-Hispanic",NA,98,187,2,2,0,0
+12JUN2023,18-49,MALE,"Asian, Non-Hispanic",NA,70,257,9,11,2,2
+19JUN2023,18-49,MALE,"Asian, Non-Hispanic",NA,208,465,4,15,2,4
+26JUN2023,18-49,MALE,"Asian, Non-Hispanic",NA,338,803,14,29,2,6
+03JUL2023,18-49,MALE,"Asian, Non-Hispanic",NA,432,1235,21,50,1,7
+10JUL2023,18-49,MALE,"Asian, Non-Hispanic",NA,549,1784,35,85,5,12
+17JUL2023,18-49,MALE,"Asian, Non-Hispanic",NA,396,2180,36,121,11,23
+24JUL2023,18-49,MALE,"Asian, Non-Hispanic",NA,439,2619,21,142,6,29
+31JUL2023,18-49,MALE,"Asian, Non-Hispanic",NA,791,3410,22,164,5,34
+07AUG2023,18-49,MALE,"Asian, Non-Hispanic",NA,829,4239,54,218,2,36
+14AUG2023,18-49,MALE,"Asian, Non-Hispanic",NA,1036,5275,62,280,8,44
+21AUG2023,18-49,MALE,"Asian, Non-Hispanic",NA,1548,6823,55,335,12,56
+28AUG2023,18-49,MALE,"Asian, Non-Hispanic",NA,2433,9256,70,405,13,69
+04SEP2023,18-49,MALE,"Asian, Non-Hispanic",NA,2309,11565,117,522,17,86
+11SEP2023,18-49,MALE,"Asian, Non-Hispanic",NA,2211,13776,161,683,17,103
+18SEP2023,18-49,MALE,"Asian, Non-Hispanic",NA,2512,16288,129,812,30,133
+25SEP2023,18-49,MALE,"Asian, Non-Hispanic",NA,1993,18281,118,930,36,169
+02OCT2023,18-49,MALE,"Asian, Non-Hispanic",NA,2053,20334,105,1035,23,192
+09OCT2023,18-49,MALE,"Asian, Non-Hispanic",NA,1977,22311,128,1163,16,208
+16OCT2023,18-49,MALE,"Asian, Non-Hispanic",NA,2030,24341,105,1268,20,228
+23OCT2023,18-49,MALE,"Asian, Non-Hispanic",NA,1668,26009,112,1380,20,248
+30OCT2023,18-49,MALE,"Asian, Non-Hispanic",NA,1153,27162,83,1463,20,268
+06NOV2023,18-49,MALE,"Asian, Non-Hispanic",NA,801,27963,58,1521,16,284
+13NOV2023,18-49,MALE,"Asian, Non-Hispanic",NA,266,28229,40,1561,12,296
+20NOV2023,18-49,MALE,"Asian, Non-Hispanic",NA,28,28257,21,1582,9,305
+27NOV2023,18-49,MALE,"Asian, Non-Hispanic",NA,55,28312,5,1587,5,310
+04DEC2023,18-49,MALE,"Asian, Non-Hispanic",NA,0,28312,5,1592,2,312
+11DEC2023,18-49,MALE,"Asian, Non-Hispanic",NA,52,28364,0,1592,2,314
+18DEC2023,18-49,MALE,"Asian, Non-Hispanic",NA,0,28364,1,1593,0,314
+25DEC2023,18-49,MALE,"Asian, Non-Hispanic",NA,0,28364,0,1593,0,314
+29MAY2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,4,0,0,0,0
+05JUN2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,4,0,0,0,0
+12JUN2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,6,0,0,0,0
+19JUN2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,9,0,0,0,0
+26JUN2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,11,0,0,0,0
+03JUL2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,21,0,0,0,0
+10JUL2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,17,38,2,2,0,0
+17JUL2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,48,0,2,1,1
+24JUL2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,58,0,2,0,1
+31JUL2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,16,74,1,3,0,1
+07AUG2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,17,91,1,4,0,1
+14AUG2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,23,114,0,4,0,1
+21AUG2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,27,141,3,7,0,1
+28AUG2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,62,203,1,8,2,3
+04SEP2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,70,273,6,14,1,4
+11SEP2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,37,310,3,17,1,5
+18SEP2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,44,354,3,20,2,7
+25SEP2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,51,405,3,23,1,8
+02OCT2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,51,456,2,25,1,9
+09OCT2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,50,506,2,27,1,10
+16OCT2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,41,547,6,33,2,12
+23OCT2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,32,579,3,36,2,14
+30OCT2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,29,608,2,38,1,15
+06NOV2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,18,626,4,42,1,16
+13NOV2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,629,4,46,1,17
+20NOV2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,631,0,46,2,19
+27NOV2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,632,0,46,0,19
+04DEC2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,632,0,46,0,19
+11DEC2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,635,0,46,0,19
+18DEC2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,635,0,46,0,19
+25DEC2023,18-49,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,635,0,46,0,19
+29MAY2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,20,20,0,0,0,0
+05JUN2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,14,34,0,0,0,0
+12JUN2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,12,46,0,0,0,0
+19JUN2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,40,86,0,0,0,0
+26JUN2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,57,143,2,2,0,0
+03JUL2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,80,223,3,5,0,0
+10JUL2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,97,320,4,9,1,1
+17JUL2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,86,406,3,12,0,1
+24JUL2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,83,489,6,18,0,1
+31JUL2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,161,650,3,21,1,2
+07AUG2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,166,816,9,30,2,4
+14AUG2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,223,1039,6,36,4,8
+21AUG2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,325,1364,8,44,3,11
+28AUG2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,464,1828,17,61,3,14
+04SEP2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,441,2269,32,93,4,18
+11SEP2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,375,2644,15,108,5,23
+18SEP2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,453,3097,19,127,5,28
+25SEP2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,405,3502,32,159,3,31
+02OCT2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,408,3910,18,177,15,46
+09OCT2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,352,4262,28,205,7,53
+16OCT2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,414,4676,16,221,6,59
+23OCT2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,295,4971,18,239,4,63
+30OCT2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,196,5167,15,254,5,68
+06NOV2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,176,5343,11,265,0,68
+13NOV2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,68,5411,8,273,1,69
+20NOV2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,6,5417,6,279,1,70
+27NOV2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,12,5429,1,280,1,71
+04DEC2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,5429,2,282,0,71
+11DEC2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,9,5438,0,282,0,71
+18DEC2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,5438,0,282,0,71
+25DEC2023,18-49,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,5438,0,282,0,71
+29MAY2023,18-49,MALE,Hispanic (any race),NA,402,402,0,0,0,0
+05JUN2023,18-49,MALE,Hispanic (any race),NA,386,788,30,30,0,0
+12JUN2023,18-49,MALE,Hispanic (any race),NA,329,1117,26,56,8,8
+19JUN2023,18-49,MALE,Hispanic (any race),NA,1002,2119,23,79,3,11
+26JUN2023,18-49,MALE,Hispanic (any race),NA,1726,3845,58,137,4,15
+03JUL2023,18-49,MALE,Hispanic (any race),NA,2037,5882,79,216,15,30
+10JUL2023,18-49,MALE,Hispanic (any race),NA,2653,8535,133,349,14,44
+17JUL2023,18-49,MALE,Hispanic (any race),NA,2083,10618,157,506,18,62
+24JUL2023,18-49,MALE,Hispanic (any race),NA,2294,12912,103,609,32,94
+31JUL2023,18-49,MALE,Hispanic (any race),NA,3985,16897,119,728,19,113
+07AUG2023,18-49,MALE,Hispanic (any race),NA,3927,20824,212,940,23,136
+14AUG2023,18-49,MALE,Hispanic (any race),NA,5039,25863,217,1157,48,184
+21AUG2023,18-49,MALE,Hispanic (any race),NA,7421,33284,257,1414,49,233
+28AUG2023,18-49,MALE,Hispanic (any race),NA,11373,44657,371,1785,49,282
+04SEP2023,18-49,MALE,Hispanic (any race),NA,11383,56040,565,2350,80,362
+11SEP2023,18-49,MALE,Hispanic (any race),NA,10524,66564,630,2980,134,496
+18SEP2023,18-49,MALE,Hispanic (any race),NA,12110,78674,541,3521,134,630
+25SEP2023,18-49,MALE,Hispanic (any race),NA,9935,88609,626,4147,131,761
+02OCT2023,18-49,MALE,Hispanic (any race),NA,10025,98634,514,4661,145,906
+09OCT2023,18-49,MALE,Hispanic (any race),NA,9700,108334,495,5156,117,1023
+16OCT2023,18-49,MALE,Hispanic (any race),NA,10034,118368,497,5653,110,1133
+23OCT2023,18-49,MALE,Hispanic (any race),NA,8021,126389,545,6198,121,1254
+30OCT2023,18-49,MALE,Hispanic (any race),NA,5461,131850,417,6615,106,1360
+06NOV2023,18-49,MALE,Hispanic (any race),NA,3945,135795,285,6900,102,1462
+13NOV2023,18-49,MALE,Hispanic (any race),NA,1317,137112,208,7108,62,1524
+20NOV2023,18-49,MALE,Hispanic (any race),NA,171,137283,91,7199,55,1579
+27NOV2023,18-49,MALE,Hispanic (any race),NA,246,137529,10,7209,18,1597
+04DEC2023,18-49,MALE,Hispanic (any race),NA,0,137529,11,7220,3,1600
+11DEC2023,18-49,MALE,Hispanic (any race),NA,275,137804,1,7221,2,1602
+18DEC2023,18-49,MALE,Hispanic (any race),NA,0,137804,17,7238,1,1603
+25DEC2023,18-49,MALE,Hispanic (any race),NA,0,137804,2,7240,2,1605
+29MAY2023,50-64,FEMALE,"White, Non-Hispanic",NA,30,30,0,0,0,0
+05JUN2023,50-64,FEMALE,"White, Non-Hispanic",NA,44,74,1,1,0,0
+12JUN2023,50-64,FEMALE,"White, Non-Hispanic",NA,35,109,1,2,0,0
+19JUN2023,50-64,FEMALE,"White, Non-Hispanic",NA,109,218,1,3,0,0
+26JUN2023,50-64,FEMALE,"White, Non-Hispanic",NA,178,396,4,7,1,1
+03JUL2023,50-64,FEMALE,"White, Non-Hispanic",NA,232,628,8,15,0,1
+10JUL2023,50-64,FEMALE,"White, Non-Hispanic",NA,287,915,14,29,0,1
+17JUL2023,50-64,FEMALE,"White, Non-Hispanic",NA,221,1136,18,47,3,4
+24JUL2023,50-64,FEMALE,"White, Non-Hispanic",NA,249,1385,11,58,1,5
+31JUL2023,50-64,FEMALE,"White, Non-Hispanic",NA,409,1794,12,70,1,6
+07AUG2023,50-64,FEMALE,"White, Non-Hispanic",NA,418,2212,28,98,0,6
+14AUG2023,50-64,FEMALE,"White, Non-Hispanic",NA,572,2784,24,122,1,7
+21AUG2023,50-64,FEMALE,"White, Non-Hispanic",NA,809,3593,29,151,2,9
+28AUG2023,50-64,FEMALE,"White, Non-Hispanic",NA,1245,4838,45,196,2,11
+04SEP2023,50-64,FEMALE,"White, Non-Hispanic",NA,1267,6105,51,247,2,13
+11SEP2023,50-64,FEMALE,"White, Non-Hispanic",NA,1121,7226,59,306,5,18
+18SEP2023,50-64,FEMALE,"White, Non-Hispanic",NA,1345,8571,58,364,8,26
+25SEP2023,50-64,FEMALE,"White, Non-Hispanic",NA,1157,9728,71,435,6,32
+02OCT2023,50-64,FEMALE,"White, Non-Hispanic",NA,1134,10862,63,498,4,36
+09OCT2023,50-64,FEMALE,"White, Non-Hispanic",NA,1135,11997,53,551,5,41
+16OCT2023,50-64,FEMALE,"White, Non-Hispanic",NA,1251,13248,50,601,5,46
+23OCT2023,50-64,FEMALE,"White, Non-Hispanic",NA,956,14204,69,670,6,52
+30OCT2023,50-64,FEMALE,"White, Non-Hispanic",NA,656,14860,56,726,8,60
+06NOV2023,50-64,FEMALE,"White, Non-Hispanic",NA,468,15328,35,761,8,68
+13NOV2023,50-64,FEMALE,"White, Non-Hispanic",NA,180,15508,21,782,3,71
+20NOV2023,50-64,FEMALE,"White, Non-Hispanic",NA,26,15534,8,790,2,73
+27NOV2023,50-64,FEMALE,"White, Non-Hispanic",NA,28,15562,1,791,0,73
+04DEC2023,50-64,FEMALE,"White, Non-Hispanic",NA,0,15562,1,792,0,73
+11DEC2023,50-64,FEMALE,"White, Non-Hispanic",NA,29,15591,0,792,0,73
+18DEC2023,50-64,FEMALE,"White, Non-Hispanic",NA,0,15591,1,793,0,73
+25DEC2023,50-64,FEMALE,"White, Non-Hispanic",NA,0,15591,0,793,0,73
+29MAY2023,50-64,FEMALE,"Black, Non-Hispanic",NA,20,20,0,0,0,0
+05JUN2023,50-64,FEMALE,"Black, Non-Hispanic",NA,9,29,2,2,0,0
+12JUN2023,50-64,FEMALE,"Black, Non-Hispanic",NA,19,48,0,2,0,0
+19JUN2023,50-64,FEMALE,"Black, Non-Hispanic",NA,42,90,3,5,0,0
+26JUN2023,50-64,FEMALE,"Black, Non-Hispanic",NA,65,155,4,9,0,0
+03JUL2023,50-64,FEMALE,"Black, Non-Hispanic",NA,71,226,1,10,0,0
+10JUL2023,50-64,FEMALE,"Black, Non-Hispanic",NA,98,324,5,15,0,0
+17JUL2023,50-64,FEMALE,"Black, Non-Hispanic",NA,67,391,5,20,1,1
+24JUL2023,50-64,FEMALE,"Black, Non-Hispanic",NA,78,469,4,24,1,2
+31JUL2023,50-64,FEMALE,"Black, Non-Hispanic",NA,144,613,2,26,0,2
+07AUG2023,50-64,FEMALE,"Black, Non-Hispanic",NA,125,738,6,32,0,2
+14AUG2023,50-64,FEMALE,"Black, Non-Hispanic",NA,179,917,10,42,0,2
+21AUG2023,50-64,FEMALE,"Black, Non-Hispanic",NA,260,1177,10,52,1,3
+28AUG2023,50-64,FEMALE,"Black, Non-Hispanic",NA,428,1605,16,68,1,4
+04SEP2023,50-64,FEMALE,"Black, Non-Hispanic",NA,438,2043,18,86,1,5
+11SEP2023,50-64,FEMALE,"Black, Non-Hispanic",NA,423,2466,23,109,2,7
+18SEP2023,50-64,FEMALE,"Black, Non-Hispanic",NA,457,2923,19,128,2,9
+25SEP2023,50-64,FEMALE,"Black, Non-Hispanic",NA,349,3272,23,151,1,10
+02OCT2023,50-64,FEMALE,"Black, Non-Hispanic",NA,353,3625,22,173,2,12
+09OCT2023,50-64,FEMALE,"Black, Non-Hispanic",NA,372,3997,19,192,2,14
+16OCT2023,50-64,FEMALE,"Black, Non-Hispanic",NA,412,4409,25,217,1,15
+23OCT2023,50-64,FEMALE,"Black, Non-Hispanic",NA,298,4707,20,237,2,17
+30OCT2023,50-64,FEMALE,"Black, Non-Hispanic",NA,229,4936,17,254,1,18
+06NOV2023,50-64,FEMALE,"Black, Non-Hispanic",NA,166,5102,11,265,1,19
+13NOV2023,50-64,FEMALE,"Black, Non-Hispanic",NA,42,5144,10,275,2,21
+20NOV2023,50-64,FEMALE,"Black, Non-Hispanic",NA,7,5151,2,277,1,22
+27NOV2023,50-64,FEMALE,"Black, Non-Hispanic",NA,6,5157,0,277,1,23
+04DEC2023,50-64,FEMALE,"Black, Non-Hispanic",NA,0,5157,0,277,0,23
+11DEC2023,50-64,FEMALE,"Black, Non-Hispanic",NA,11,5168,0,277,0,23
+18DEC2023,50-64,FEMALE,"Black, Non-Hispanic",NA,0,5168,0,277,0,23
+25DEC2023,50-64,FEMALE,"Black, Non-Hispanic",NA,0,5168,0,277,0,23
+29MAY2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+05JUN2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+12JUN2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+19JUN2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,0,0,0,0,0
+26JUN2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,5,0,0,0,0
+03JUL2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,5,1,1,0,0
+10JUL2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,9,0,1,0,0
+17JUL2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,12,0,1,0,0
+24JUL2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,15,1,2,0,0
+31JUL2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,19,0,2,0,0
+07AUG2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,21,0,2,0,0
+14AUG2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,8,29,0,2,0,0
+21AUG2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,11,40,0,2,0,0
+28AUG2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,7,47,0,2,0,0
+04SEP2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,9,56,0,2,0,0
+11SEP2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,16,72,1,3,0,0
+18SEP2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,11,83,0,3,0,0
+25SEP2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,87,1,4,0,0
+02OCT2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,11,98,0,4,0,0
+09OCT2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,10,108,0,4,0,0
+16OCT2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,13,121,0,4,0,0
+23OCT2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,127,0,4,0,0
+30OCT2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,128,0,4,0,0
+06NOV2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,131,0,4,0,0
+13NOV2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,134,0,4,0,0
+20NOV2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,134,0,4,0,0
+27NOV2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,134,0,4,0,0
+04DEC2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,134,0,4,0,0
+11DEC2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,134,0,4,0,0
+18DEC2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,134,0,4,0,0
+25DEC2023,50-64,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,134,0,4,0,0
+29MAY2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,20,20,0,0,0,0
+05JUN2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,28,48,1,1,0,0
+12JUN2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,27,75,1,2,0,0
+19JUN2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,67,142,0,2,0,0
+26JUN2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,107,249,3,5,0,0
+03JUL2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,136,385,3,8,0,0
+10JUL2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,164,549,9,17,0,0
+17JUL2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,127,676,8,25,0,0
+24JUL2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,142,818,7,32,1,1
+31JUL2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,267,1085,13,45,4,5
+07AUG2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,265,1350,12,57,1,6
+14AUG2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,327,1677,17,74,1,7
+21AUG2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,507,2184,23,97,1,8
+28AUG2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,745,2929,39,136,4,12
+04SEP2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,696,3625,37,173,6,18
+11SEP2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,656,4281,30,203,4,22
+18SEP2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,748,5029,31,234,2,24
+25SEP2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,666,5695,48,282,5,29
+02OCT2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,633,6328,43,325,1,30
+09OCT2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,616,6944,37,362,2,32
+16OCT2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,714,7658,37,399,1,33
+23OCT2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,517,8175,35,434,6,39
+30OCT2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,393,8568,22,456,1,40
+06NOV2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,295,8863,18,474,3,43
+13NOV2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,110,8973,20,494,1,44
+20NOV2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,11,8984,12,506,3,47
+27NOV2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,12,8996,0,506,1,48
+04DEC2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,0,8996,2,508,0,48
+11DEC2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,19,9015,0,508,0,48
+18DEC2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,0,9015,2,510,0,48
+25DEC2023,50-64,FEMALE,"Asian, Non-Hispanic",NA,0,9015,0,510,0,48
+29MAY2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+05JUN2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+12JUN2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+19JUN2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+26JUN2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,1,0,0,0,0
+03JUL2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,1,0,0,0,0
+10JUL2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,2,0,0,0,0
+17JUL2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,4,0,0,0,0
+24JUL2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,5,0,0,0,0
+31JUL2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,9,0,0,0,0
+07AUG2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,11,0,0,0,0
+14AUG2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,15,0,0,0,0
+21AUG2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,25,0,0,0,0
+28AUG2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,12,37,0,0,0,0
+04SEP2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,8,45,0,0,0,0
+11SEP2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,13,58,0,0,0,0
+18SEP2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,8,66,2,2,0,0
+25SEP2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,16,82,0,2,0,0
+02OCT2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,12,94,1,3,0,0
+09OCT2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,9,103,0,3,0,0
+16OCT2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,11,114,1,4,0,0
+23OCT2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,120,0,4,0,0
+30OCT2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,123,2,6,0,0
+06NOV2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,128,0,6,0,0
+13NOV2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,130,0,6,0,0
+20NOV2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,130,0,6,0,0
+27NOV2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,131,0,6,0,0
+04DEC2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,131,0,6,0,0
+11DEC2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,131,0,6,0,0
+18DEC2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,131,0,6,0,0
+25DEC2023,50-64,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,131,0,6,0,0
+29MAY2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,2,0,0,0,0
+05JUN2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,4,0,0,0,0
+12JUN2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,6,0,0,0,0
+19JUN2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,11,17,0,0,0,0
+26JUN2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,8,25,0,0,0,0
+03JUL2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,8,33,0,0,0,0
+10JUL2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,9,42,0,0,0,0
+17JUL2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,5,47,1,1,0,0
+24JUL2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,17,64,0,1,0,0
+31JUL2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,20,84,1,2,0,0
+07AUG2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,24,108,1,3,0,0
+14AUG2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,32,140,1,4,0,0
+21AUG2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,33,173,2,6,0,0
+28AUG2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,58,231,1,7,0,0
+04SEP2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,57,288,4,11,0,0
+11SEP2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,74,362,4,15,1,1
+18SEP2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,69,431,3,18,0,1
+25SEP2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,58,489,3,21,0,1
+02OCT2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,52,541,3,24,2,3
+09OCT2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,48,589,2,26,0,3
+16OCT2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,51,640,3,29,0,3
+23OCT2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,52,692,4,33,0,3
+30OCT2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,23,715,2,35,0,3
+06NOV2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,24,739,0,35,0,3
+13NOV2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,6,745,0,35,0,3
+20NOV2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,747,0,35,0,3
+27NOV2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,747,0,35,0,3
+04DEC2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,747,0,35,0,3
+11DEC2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,749,0,35,0,3
+18DEC2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,749,0,35,0,3
+25DEC2023,50-64,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,749,0,35,0,3
+29MAY2023,50-64,FEMALE,Hispanic (any race),NA,69,69,0,0,0,0
+05JUN2023,50-64,FEMALE,Hispanic (any race),NA,74,143,4,4,0,0
+12JUN2023,50-64,FEMALE,Hispanic (any race),NA,53,196,7,11,1,1
+19JUN2023,50-64,FEMALE,Hispanic (any race),NA,168,364,3,14,1,2
+26JUN2023,50-64,FEMALE,Hispanic (any race),NA,323,687,7,21,1,3
+03JUL2023,50-64,FEMALE,Hispanic (any race),NA,354,1041,13,34,2,5
+10JUL2023,50-64,FEMALE,Hispanic (any race),NA,472,1513,19,53,1,6
+17JUL2023,50-64,FEMALE,Hispanic (any race),NA,370,1883,33,86,4,10
+24JUL2023,50-64,FEMALE,Hispanic (any race),NA,393,2276,25,111,3,13
+31JUL2023,50-64,FEMALE,Hispanic (any race),NA,707,2983,23,134,5,18
+07AUG2023,50-64,FEMALE,Hispanic (any race),NA,738,3721,41,175,2,20
+14AUG2023,50-64,FEMALE,Hispanic (any race),NA,922,4643,29,204,4,24
+21AUG2023,50-64,FEMALE,Hispanic (any race),NA,1409,6052,40,244,2,26
+28AUG2023,50-64,FEMALE,Hispanic (any race),NA,2018,8070,65,309,4,30
+04SEP2023,50-64,FEMALE,Hispanic (any race),NA,1964,10034,110,419,4,34
+11SEP2023,50-64,FEMALE,Hispanic (any race),NA,1935,11969,97,516,15,49
+18SEP2023,50-64,FEMALE,Hispanic (any race),NA,2300,14269,93,609,14,63
+25SEP2023,50-64,FEMALE,Hispanic (any race),NA,1791,16060,110,719,6,69
+02OCT2023,50-64,FEMALE,Hispanic (any race),NA,1811,17871,98,817,18,87
+09OCT2023,50-64,FEMALE,Hispanic (any race),NA,1812,19683,93,910,10,97
+16OCT2023,50-64,FEMALE,Hispanic (any race),NA,1891,21574,90,1000,12,109
+23OCT2023,50-64,FEMALE,Hispanic (any race),NA,1503,23077,99,1099,12,121
+30OCT2023,50-64,FEMALE,Hispanic (any race),NA,1035,24112,99,1198,9,130
+06NOV2023,50-64,FEMALE,Hispanic (any race),NA,688,24800,59,1257,7,137
+13NOV2023,50-64,FEMALE,Hispanic (any race),NA,264,25064,31,1288,5,142
+20NOV2023,50-64,FEMALE,Hispanic (any race),NA,34,25098,20,1308,2,144
+27NOV2023,50-64,FEMALE,Hispanic (any race),NA,47,25145,3,1311,4,148
+04DEC2023,50-64,FEMALE,Hispanic (any race),NA,0,25145,1,1312,0,148
+11DEC2023,50-64,FEMALE,Hispanic (any race),NA,33,25178,1,1313,0,148
+18DEC2023,50-64,FEMALE,Hispanic (any race),NA,0,25178,1,1314,0,148
+25DEC2023,50-64,FEMALE,Hispanic (any race),NA,0,25178,0,1314,0,148
+29MAY2023,50-64,MALE,"White, Non-Hispanic",NA,49,49,0,0,0,0
+05JUN2023,50-64,MALE,"White, Non-Hispanic",NA,44,93,6,6,0,0
+12JUN2023,50-64,MALE,"White, Non-Hispanic",NA,43,136,3,9,2,2
+19JUN2023,50-64,MALE,"White, Non-Hispanic",NA,103,239,2,11,0,2
+26JUN2023,50-64,MALE,"White, Non-Hispanic",NA,173,412,7,18,1,3
+03JUL2023,50-64,MALE,"White, Non-Hispanic",NA,250,662,14,32,0,3
+10JUL2023,50-64,MALE,"White, Non-Hispanic",NA,305,967,11,43,1,4
+17JUL2023,50-64,MALE,"White, Non-Hispanic",NA,276,1243,17,60,0,4
+24JUL2023,50-64,MALE,"White, Non-Hispanic",NA,267,1510,9,69,1,5
+31JUL2023,50-64,MALE,"White, Non-Hispanic",NA,437,1947,12,81,1,6
+07AUG2023,50-64,MALE,"White, Non-Hispanic",NA,506,2453,28,109,0,6
+14AUG2023,50-64,MALE,"White, Non-Hispanic",NA,596,3049,22,131,1,7
+21AUG2023,50-64,MALE,"White, Non-Hispanic",NA,905,3954,32,163,2,9
+28AUG2023,50-64,MALE,"White, Non-Hispanic",NA,1418,5372,48,211,2,11
+04SEP2023,50-64,MALE,"White, Non-Hispanic",NA,1397,6769,79,290,6,17
+11SEP2023,50-64,MALE,"White, Non-Hispanic",NA,1234,8003,68,358,11,28
+18SEP2023,50-64,MALE,"White, Non-Hispanic",NA,1509,9512,51,409,9,37
+25SEP2023,50-64,MALE,"White, Non-Hispanic",NA,1182,10694,80,489,4,41
+02OCT2023,50-64,MALE,"White, Non-Hispanic",NA,1239,11933,66,555,6,47
+09OCT2023,50-64,MALE,"White, Non-Hispanic",NA,1242,13175,55,610,9,56
+16OCT2023,50-64,MALE,"White, Non-Hispanic",NA,1208,14383,60,670,3,59
+23OCT2023,50-64,MALE,"White, Non-Hispanic",NA,1035,15418,67,737,4,63
+30OCT2023,50-64,MALE,"White, Non-Hispanic",NA,649,16067,66,803,5,68
+06NOV2023,50-64,MALE,"White, Non-Hispanic",NA,481,16548,32,835,4,72
+13NOV2023,50-64,MALE,"White, Non-Hispanic",NA,170,16718,24,859,4,76
+20NOV2023,50-64,MALE,"White, Non-Hispanic",NA,12,16730,9,868,3,79
+27NOV2023,50-64,MALE,"White, Non-Hispanic",NA,37,16767,2,870,3,82
+04DEC2023,50-64,MALE,"White, Non-Hispanic",NA,0,16767,3,873,0,82
+11DEC2023,50-64,MALE,"White, Non-Hispanic",NA,34,16801,0,873,0,82
+18DEC2023,50-64,MALE,"White, Non-Hispanic",NA,0,16801,2,875,0,82
+25DEC2023,50-64,MALE,"White, Non-Hispanic",NA,0,16801,0,875,0,82
+29MAY2023,50-64,MALE,"Black, Non-Hispanic",NA,20,20,0,0,0,0
+05JUN2023,50-64,MALE,"Black, Non-Hispanic",NA,15,35,2,2,0,0
+12JUN2023,50-64,MALE,"Black, Non-Hispanic",NA,7,42,0,2,0,0
+19JUN2023,50-64,MALE,"Black, Non-Hispanic",NA,33,75,0,2,0,0
+26JUN2023,50-64,MALE,"Black, Non-Hispanic",NA,62,137,3,5,0,0
+03JUL2023,50-64,MALE,"Black, Non-Hispanic",NA,68,205,2,7,0,0
+10JUL2023,50-64,MALE,"Black, Non-Hispanic",NA,83,288,3,10,0,0
+17JUL2023,50-64,MALE,"Black, Non-Hispanic",NA,62,350,4,14,1,1
+24JUL2023,50-64,MALE,"Black, Non-Hispanic",NA,65,415,2,16,0,1
+31JUL2023,50-64,MALE,"Black, Non-Hispanic",NA,113,528,2,18,1,2
+07AUG2023,50-64,MALE,"Black, Non-Hispanic",NA,144,672,8,26,1,3
+14AUG2023,50-64,MALE,"Black, Non-Hispanic",NA,168,840,8,34,1,4
+21AUG2023,50-64,MALE,"Black, Non-Hispanic",NA,233,1073,9,43,0,4
+28AUG2023,50-64,MALE,"Black, Non-Hispanic",NA,365,1438,11,54,2,6
+04SEP2023,50-64,MALE,"Black, Non-Hispanic",NA,347,1785,21,75,3,9
+11SEP2023,50-64,MALE,"Black, Non-Hispanic",NA,291,2076,16,91,6,15
+18SEP2023,50-64,MALE,"Black, Non-Hispanic",NA,401,2477,17,108,2,17
+25SEP2023,50-64,MALE,"Black, Non-Hispanic",NA,325,2802,23,131,1,18
+02OCT2023,50-64,MALE,"Black, Non-Hispanic",NA,327,3129,20,151,0,18
+09OCT2023,50-64,MALE,"Black, Non-Hispanic",NA,305,3434,13,164,2,20
+16OCT2023,50-64,MALE,"Black, Non-Hispanic",NA,301,3735,15,179,1,21
+23OCT2023,50-64,MALE,"Black, Non-Hispanic",NA,271,4006,14,193,2,23
+30OCT2023,50-64,MALE,"Black, Non-Hispanic",NA,195,4201,19,212,2,25
+06NOV2023,50-64,MALE,"Black, Non-Hispanic",NA,104,4305,11,223,1,26
+13NOV2023,50-64,MALE,"Black, Non-Hispanic",NA,43,4348,6,229,1,27
+20NOV2023,50-64,MALE,"Black, Non-Hispanic",NA,2,4350,1,230,1,28
+27NOV2023,50-64,MALE,"Black, Non-Hispanic",NA,12,4362,0,230,1,29
+04DEC2023,50-64,MALE,"Black, Non-Hispanic",NA,0,4362,1,231,0,29
+11DEC2023,50-64,MALE,"Black, Non-Hispanic",NA,9,4371,0,231,0,29
+18DEC2023,50-64,MALE,"Black, Non-Hispanic",NA,0,4371,0,231,0,29
+25DEC2023,50-64,MALE,"Black, Non-Hispanic",NA,0,4371,0,231,0,29
+29MAY2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,1,0,0,0,0
+05JUN2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,2,0,0,0,0
+12JUN2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,3,0,0,0,0
+19JUN2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,5,0,0,0,0
+26JUN2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,5,0,0,0,0
+03JUL2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,6,0,0,0,0
+10JUL2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,10,0,0,0,0
+17JUL2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,11,0,0,0,0
+24JUL2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,11,0,0,0,0
+31JUL2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,16,0,0,0,0
+07AUG2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,7,23,0,0,0,0
+14AUG2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,29,0,0,0,0
+21AUG2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,32,0,0,0,0
+28AUG2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,9,41,0,0,0,0
+04SEP2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,12,53,2,2,0,0
+11SEP2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,12,65,1,3,0,0
+18SEP2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,12,77,0,3,0,0
+25SEP2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,82,2,5,0,0
+02OCT2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,8,90,0,5,0,0
+09OCT2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,95,1,6,0,0
+16OCT2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,101,0,6,0,0
+23OCT2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,106,0,6,0,0
+30OCT2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,108,1,7,0,0
+06NOV2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,114,0,7,0,0
+13NOV2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,114,0,7,0,0
+20NOV2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,114,0,7,0,0
+27NOV2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,114,0,7,0,0
+04DEC2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,114,0,7,0,0
+11DEC2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,115,0,7,0,0
+18DEC2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,115,0,7,0,0
+25DEC2023,50-64,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,115,0,7,0,0
+29MAY2023,50-64,MALE,"Asian, Non-Hispanic",NA,16,16,0,0,0,0
+05JUN2023,50-64,MALE,"Asian, Non-Hispanic",NA,22,38,0,0,0,0
+12JUN2023,50-64,MALE,"Asian, Non-Hispanic",NA,26,64,0,0,0,0
+19JUN2023,50-64,MALE,"Asian, Non-Hispanic",NA,62,126,1,1,0,0
+26JUN2023,50-64,MALE,"Asian, Non-Hispanic",NA,95,221,3,4,0,0
+03JUL2023,50-64,MALE,"Asian, Non-Hispanic",NA,111,332,3,7,0,0
+10JUL2023,50-64,MALE,"Asian, Non-Hispanic",NA,140,472,4,11,0,0
+17JUL2023,50-64,MALE,"Asian, Non-Hispanic",NA,93,565,7,18,0,0
+24JUL2023,50-64,MALE,"Asian, Non-Hispanic",NA,124,689,11,29,0,0
+31JUL2023,50-64,MALE,"Asian, Non-Hispanic",NA,186,875,9,38,1,1
+07AUG2023,50-64,MALE,"Asian, Non-Hispanic",NA,206,1081,15,53,0,1
+14AUG2023,50-64,MALE,"Asian, Non-Hispanic",NA,267,1348,10,63,1,2
+21AUG2023,50-64,MALE,"Asian, Non-Hispanic",NA,392,1740,16,79,0,2
+28AUG2023,50-64,MALE,"Asian, Non-Hispanic",NA,656,2396,21,100,2,4
+04SEP2023,50-64,MALE,"Asian, Non-Hispanic",NA,606,3002,29,129,3,7
+11SEP2023,50-64,MALE,"Asian, Non-Hispanic",NA,518,3520,20,149,2,9
+18SEP2023,50-64,MALE,"Asian, Non-Hispanic",NA,639,4159,33,182,3,12
+25SEP2023,50-64,MALE,"Asian, Non-Hispanic",NA,529,4688,34,216,5,17
+02OCT2023,50-64,MALE,"Asian, Non-Hispanic",NA,547,5235,27,243,1,18
+09OCT2023,50-64,MALE,"Asian, Non-Hispanic",NA,491,5726,22,265,3,21
+16OCT2023,50-64,MALE,"Asian, Non-Hispanic",NA,524,6250,22,287,1,22
+23OCT2023,50-64,MALE,"Asian, Non-Hispanic",NA,438,6688,39,326,4,26
+30OCT2023,50-64,MALE,"Asian, Non-Hispanic",NA,308,6996,22,348,3,29
+06NOV2023,50-64,MALE,"Asian, Non-Hispanic",NA,218,7214,19,367,3,32
+13NOV2023,50-64,MALE,"Asian, Non-Hispanic",NA,64,7278,12,379,2,34
+20NOV2023,50-64,MALE,"Asian, Non-Hispanic",NA,6,7284,3,382,2,36
+27NOV2023,50-64,MALE,"Asian, Non-Hispanic",NA,12,7296,1,383,0,36
+04DEC2023,50-64,MALE,"Asian, Non-Hispanic",NA,0,7296,1,384,0,36
+11DEC2023,50-64,MALE,"Asian, Non-Hispanic",NA,12,7308,0,384,0,36
+18DEC2023,50-64,MALE,"Asian, Non-Hispanic",NA,0,7308,0,384,0,36
+25DEC2023,50-64,MALE,"Asian, Non-Hispanic",NA,0,7308,0,384,0,36
+29MAY2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,2,0,0,0,0
+05JUN2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,2,0,0,0,0
+12JUN2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,2,0,0,0,0
+19JUN2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,4,0,0,0,0
+26JUN2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,6,0,0,0,0
+03JUL2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,7,0,0,0,0
+10JUL2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,10,0,0,0,0
+17JUL2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,12,0,0,0,0
+24JUL2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,16,0,0,0,0
+31JUL2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,20,0,0,0,0
+07AUG2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,24,0,0,0,0
+14AUG2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,7,31,0,0,0,0
+21AUG2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,41,1,1,0,0
+28AUG2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,14,55,1,2,0,0
+04SEP2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,10,65,1,3,0,0
+11SEP2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,71,2,5,0,0
+18SEP2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,11,82,0,5,0,0
+25SEP2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,13,95,0,5,0,0
+02OCT2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,7,102,0,5,0,0
+09OCT2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,8,110,1,6,0,0
+16OCT2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,11,121,0,6,0,0
+23OCT2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,127,1,7,0,0
+30OCT2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,7,134,0,7,0,0
+06NOV2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,137,0,7,0,0
+13NOV2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,137,0,7,0,0
+20NOV2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,137,0,7,0,0
+27NOV2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,138,0,7,0,0
+04DEC2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,138,0,7,0,0
+11DEC2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,139,0,7,0,0
+18DEC2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,139,0,7,0,0
+25DEC2023,50-64,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,139,0,7,0,0
+29MAY2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,1,1,0,0,0,0
+05JUN2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,3,0,0,0,0
+12JUN2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,3,6,0,0,0,0
+19JUN2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,7,13,0,0,0,0
+26JUN2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,8,21,0,0,0,0
+03JUL2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,12,33,1,1,0,0
+10JUL2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,17,50,0,1,0,0
+17JUL2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,11,61,1,2,0,0
+24JUL2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,14,75,0,2,0,0
+31JUL2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,15,90,1,3,0,0
+07AUG2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,16,106,1,4,0,0
+14AUG2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,21,127,0,4,0,0
+21AUG2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,46,173,0,4,0,0
+28AUG2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,52,225,4,8,0,0
+04SEP2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,55,280,2,10,1,1
+11SEP2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,61,341,4,14,0,1
+18SEP2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,52,393,3,17,0,1
+25SEP2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,53,446,3,20,0,1
+02OCT2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,47,493,0,20,0,1
+09OCT2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,55,548,5,25,0,1
+16OCT2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,63,611,2,27,0,1
+23OCT2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,40,651,2,29,0,1
+30OCT2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,30,681,3,32,1,2
+06NOV2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,28,709,1,33,0,2
+13NOV2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,8,717,3,36,0,2
+20NOV2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,717,1,37,0,2
+27NOV2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,717,0,37,0,2
+04DEC2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,717,0,37,0,2
+11DEC2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,1,718,0,37,0,2
+18DEC2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,718,0,37,0,2
+25DEC2023,50-64,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,718,0,37,0,2
+29MAY2023,50-64,MALE,Hispanic (any race),NA,81,81,0,0,0,0
+05JUN2023,50-64,MALE,Hispanic (any race),NA,76,157,5,5,0,0
+12JUN2023,50-64,MALE,Hispanic (any race),NA,66,223,2,7,1,1
+19JUN2023,50-64,MALE,Hispanic (any race),NA,164,387,4,11,0,1
+26JUN2023,50-64,MALE,Hispanic (any race),NA,284,671,9,20,1,2
+03JUL2023,50-64,MALE,Hispanic (any race),NA,354,1025,20,40,1,3
+10JUL2023,50-64,MALE,Hispanic (any race),NA,484,1509,14,54,2,5
+17JUL2023,50-64,MALE,Hispanic (any race),NA,382,1891,25,79,2,7
+24JUL2023,50-64,MALE,Hispanic (any race),NA,393,2284,23,102,1,8
+31JUL2023,50-64,MALE,Hispanic (any race),NA,727,3011,17,119,3,11
+07AUG2023,50-64,MALE,Hispanic (any race),NA,691,3702,33,152,0,11
+14AUG2023,50-64,MALE,Hispanic (any race),NA,838,4540,36,188,1,12
+21AUG2023,50-64,MALE,Hispanic (any race),NA,1306,5846,43,231,3,15
+28AUG2023,50-64,MALE,Hispanic (any race),NA,2098,7944,70,301,3,18
+04SEP2023,50-64,MALE,Hispanic (any race),NA,2024,9968,114,415,7,25
+11SEP2023,50-64,MALE,Hispanic (any race),NA,1953,11921,102,517,9,34
+18SEP2023,50-64,MALE,Hispanic (any race),NA,2130,14051,108,625,10,44
+25SEP2023,50-64,MALE,Hispanic (any race),NA,1831,15882,115,740,14,58
+02OCT2023,50-64,MALE,Hispanic (any race),NA,1805,17687,109,849,11,69
+09OCT2023,50-64,MALE,Hispanic (any race),NA,1852,19539,95,944,9,78
+16OCT2023,50-64,MALE,Hispanic (any race),NA,1883,21422,109,1053,6,84
+23OCT2023,50-64,MALE,Hispanic (any race),NA,1538,22960,107,1160,14,98
+30OCT2023,50-64,MALE,Hispanic (any race),NA,972,23932,64,1224,10,108
+06NOV2023,50-64,MALE,Hispanic (any race),NA,780,24712,56,1280,7,115
+13NOV2023,50-64,MALE,Hispanic (any race),NA,280,24992,50,1330,4,119
+20NOV2023,50-64,MALE,Hispanic (any race),NA,37,25029,16,1346,6,125
+27NOV2023,50-64,MALE,Hispanic (any race),NA,42,25071,3,1349,4,129
+04DEC2023,50-64,MALE,Hispanic (any race),NA,0,25071,3,1352,1,130
+11DEC2023,50-64,MALE,Hispanic (any race),NA,47,25118,0,1352,1,131
+18DEC2023,50-64,MALE,Hispanic (any race),NA,0,25118,4,1356,0,131
+25DEC2023,50-64,MALE,Hispanic (any race),NA,0,25118,0,1356,0,131
+29MAY2023,65+,FEMALE,"White, Non-Hispanic",NA,160,160,0,0,0,0
+05JUN2023,65+,FEMALE,"White, Non-Hispanic",NA,147,307,35,35,0,0
+12JUN2023,65+,FEMALE,"White, Non-Hispanic",NA,125,432,51,86,7,7
+19JUN2023,65+,FEMALE,"White, Non-Hispanic",NA,407,839,56,142,16,23
+26JUN2023,65+,FEMALE,"White, Non-Hispanic",NA,661,1500,119,261,9,32
+03JUL2023,65+,FEMALE,"White, Non-Hispanic",NA,739,2239,186,447,26,58
+10JUL2023,65+,FEMALE,"White, Non-Hispanic",NA,995,3234,229,676,36,94
+17JUL2023,65+,FEMALE,"White, Non-Hispanic",NA,794,4028,316,992,75,169
+24JUL2023,65+,FEMALE,"White, Non-Hispanic",NA,797,4825,261,1253,76,245
+31JUL2023,65+,FEMALE,"White, Non-Hispanic",NA,1408,6233,251,1504,47,292
+07AUG2023,65+,FEMALE,"White, Non-Hispanic",NA,1422,7655,446,1950,50,342
+14AUG2023,65+,FEMALE,"White, Non-Hispanic",NA,1745,9400,455,2405,118,460
+21AUG2023,65+,FEMALE,"White, Non-Hispanic",NA,2799,12199,568,2973,107,567
+28AUG2023,65+,FEMALE,"White, Non-Hispanic",NA,4120,16319,874,3847,132,699
+04SEP2023,65+,FEMALE,"White, Non-Hispanic",NA,4112,20431,1259,5106,198,897
+11SEP2023,65+,FEMALE,"White, Non-Hispanic",NA,3855,24286,1359,6465,300,1197
+18SEP2023,65+,FEMALE,"White, Non-Hispanic",NA,4360,28646,1299,7764,330,1527
+25SEP2023,65+,FEMALE,"White, Non-Hispanic",NA,3589,32235,1436,9200,325,1852
+02OCT2023,65+,FEMALE,"White, Non-Hispanic",NA,3623,35858,1205,10405,329,2181
+09OCT2023,65+,FEMALE,"White, Non-Hispanic",NA,3661,39519,1265,11670,289,2470
+16OCT2023,65+,FEMALE,"White, Non-Hispanic",NA,3554,43073,1233,12903,352,2822
+23OCT2023,65+,FEMALE,"White, Non-Hispanic",NA,3036,46109,1215,14118,290,3112
+30OCT2023,65+,FEMALE,"White, Non-Hispanic",NA,1980,48089,1079,15197,290,3402
+06NOV2023,65+,FEMALE,"White, Non-Hispanic",NA,1374,49463,735,15932,248,3650
+13NOV2023,65+,FEMALE,"White, Non-Hispanic",NA,493,49956,553,16485,180,3830
+20NOV2023,65+,FEMALE,"White, Non-Hispanic",NA,72,50028,262,16747,134,3964
+27NOV2023,65+,FEMALE,"White, Non-Hispanic",NA,83,50111,86,16833,54,4018
+04DEC2023,65+,FEMALE,"White, Non-Hispanic",NA,0,50111,45,16878,21,4039
+11DEC2023,65+,FEMALE,"White, Non-Hispanic",NA,91,50202,7,16885,14,4053
+18DEC2023,65+,FEMALE,"White, Non-Hispanic",NA,0,50202,29,16914,1,4054
+25DEC2023,65+,FEMALE,"White, Non-Hispanic",NA,0,50202,6,16920,6,4060
+29MAY2023,65+,FEMALE,"Black, Non-Hispanic",NA,40,40,0,0,0,0
+05JUN2023,65+,FEMALE,"Black, Non-Hispanic",NA,38,78,6,6,0,0
+12JUN2023,65+,FEMALE,"Black, Non-Hispanic",NA,31,109,7,13,1,1
+19JUN2023,65+,FEMALE,"Black, Non-Hispanic",NA,83,192,7,20,3,4
+26JUN2023,65+,FEMALE,"Black, Non-Hispanic",NA,136,328,20,40,3,7
+03JUL2023,65+,FEMALE,"Black, Non-Hispanic",NA,166,494,42,82,2,9
+10JUL2023,65+,FEMALE,"Black, Non-Hispanic",NA,255,749,47,129,10,19
+17JUL2023,65+,FEMALE,"Black, Non-Hispanic",NA,179,928,77,206,12,31
+24JUL2023,65+,FEMALE,"Black, Non-Hispanic",NA,184,1112,64,270,19,50
+31JUL2023,65+,FEMALE,"Black, Non-Hispanic",NA,340,1452,59,329,12,62
+07AUG2023,65+,FEMALE,"Black, Non-Hispanic",NA,376,1828,103,432,15,77
+14AUG2023,65+,FEMALE,"Black, Non-Hispanic",NA,454,2282,133,565,28,105
+21AUG2023,65+,FEMALE,"Black, Non-Hispanic",NA,698,2980,142,707,38,143
+28AUG2023,65+,FEMALE,"Black, Non-Hispanic",NA,1055,4035,219,926,43,186
+04SEP2023,65+,FEMALE,"Black, Non-Hispanic",NA,1012,5047,312,1238,52,238
+11SEP2023,65+,FEMALE,"Black, Non-Hispanic",NA,965,6012,340,1578,74,312
+18SEP2023,65+,FEMALE,"Black, Non-Hispanic",NA,971,6983,329,1907,81,393
+25SEP2023,65+,FEMALE,"Black, Non-Hispanic",NA,856,7839,303,2210,76,469
+02OCT2023,65+,FEMALE,"Black, Non-Hispanic",NA,868,8707,288,2498,65,534
+09OCT2023,65+,FEMALE,"Black, Non-Hispanic",NA,863,9570,294,2792,78,612
+16OCT2023,65+,FEMALE,"Black, Non-Hispanic",NA,853,10423,294,3086,71,683
+23OCT2023,65+,FEMALE,"Black, Non-Hispanic",NA,698,11121,286,3372,70,753
+30OCT2023,65+,FEMALE,"Black, Non-Hispanic",NA,495,11616,262,3634,62,815
+06NOV2023,65+,FEMALE,"Black, Non-Hispanic",NA,341,11957,185,3819,59,874
+13NOV2023,65+,FEMALE,"Black, Non-Hispanic",NA,110,12067,139,3958,49,923
+20NOV2023,65+,FEMALE,"Black, Non-Hispanic",NA,19,12086,59,4017,29,952
+27NOV2023,65+,FEMALE,"Black, Non-Hispanic",NA,17,12103,17,4034,14,966
+04DEC2023,65+,FEMALE,"Black, Non-Hispanic",NA,0,12103,16,4050,5,971
+11DEC2023,65+,FEMALE,"Black, Non-Hispanic",NA,35,12138,5,4055,5,976
+18DEC2023,65+,FEMALE,"Black, Non-Hispanic",NA,0,12138,9,4064,1,977
+25DEC2023,65+,FEMALE,"Black, Non-Hispanic",NA,0,12138,3,4067,3,980
+29MAY2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,1,0,0,0,0
+05JUN2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,1,1,1,0,0
+12JUN2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,1,0,1,0,0
+19JUN2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,3,0,1,0,0
+26JUN2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,8,1,2,0,0
+03JUL2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,12,1,3,0,0
+10JUL2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,13,2,5,0,0
+17JUL2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,16,1,6,0,0
+24JUL2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,22,2,8,1,1
+31JUL2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,28,1,9,0,1
+07AUG2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,28,1,10,0,1
+14AUG2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,8,36,1,11,1,2
+21AUG2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,16,52,2,13,0,2
+28AUG2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,28,80,6,19,0,2
+04SEP2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,25,105,6,25,3,5
+11SEP2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,26,131,7,32,0,5
+18SEP2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,38,169,7,39,3,8
+25SEP2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,33,202,14,53,0,8
+02OCT2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,21,223,10,63,3,11
+09OCT2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,19,242,14,77,2,13
+16OCT2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,20,262,12,89,4,17
+23OCT2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,18,280,6,95,4,21
+30OCT2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,15,295,4,99,2,23
+06NOV2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,8,303,4,103,0,23
+13NOV2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,306,3,106,0,23
+20NOV2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,306,2,108,2,25
+27NOV2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,306,0,108,1,26
+04DEC2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,306,0,108,0,26
+11DEC2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,2,308,0,108,0,26
+18DEC2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,308,0,108,0,26
+25DEC2023,65+,FEMALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,308,0,108,0,26
+29MAY2023,65+,FEMALE,"Asian, Non-Hispanic",NA,79,79,0,0,0,0
+05JUN2023,65+,FEMALE,"Asian, Non-Hispanic",NA,78,157,18,18,0,0
+12JUN2023,65+,FEMALE,"Asian, Non-Hispanic",NA,68,225,24,42,5,5
+19JUN2023,65+,FEMALE,"Asian, Non-Hispanic",NA,198,423,23,65,6,11
+26JUN2023,65+,FEMALE,"Asian, Non-Hispanic",NA,310,733,58,123,6,17
+03JUL2023,65+,FEMALE,"Asian, Non-Hispanic",NA,352,1085,85,208,14,31
+10JUL2023,65+,FEMALE,"Asian, Non-Hispanic",NA,501,1586,126,334,20,51
+17JUL2023,65+,FEMALE,"Asian, Non-Hispanic",NA,306,1892,170,504,30,81
+24JUL2023,65+,FEMALE,"Asian, Non-Hispanic",NA,404,2296,118,622,44,125
+31JUL2023,65+,FEMALE,"Asian, Non-Hispanic",NA,679,2975,134,756,26,151
+07AUG2023,65+,FEMALE,"Asian, Non-Hispanic",NA,680,3655,219,975,46,197
+14AUG2023,65+,FEMALE,"Asian, Non-Hispanic",NA,845,4500,226,1201,53,250
+21AUG2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1273,5773,236,1437,63,313
+28AUG2023,65+,FEMALE,"Asian, Non-Hispanic",NA,2069,7842,363,1800,46,359
+04SEP2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1991,9833,584,2384,89,448
+11SEP2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1875,11708,622,3006,128,576
+18SEP2023,65+,FEMALE,"Asian, Non-Hispanic",NA,2219,13927,647,3653,130,706
+25SEP2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1762,15689,686,4339,170,876
+02OCT2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1765,17454,603,4942,167,1043
+09OCT2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1691,19145,583,5525,147,1190
+16OCT2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1737,20882,581,6106,153,1343
+23OCT2023,65+,FEMALE,"Asian, Non-Hispanic",NA,1362,22244,574,6680,127,1470
+30OCT2023,65+,FEMALE,"Asian, Non-Hispanic",NA,948,23192,478,7158,146,1616
+06NOV2023,65+,FEMALE,"Asian, Non-Hispanic",NA,640,23832,351,7509,126,1742
+13NOV2023,65+,FEMALE,"Asian, Non-Hispanic",NA,273,24105,244,7753,90,1832
+20NOV2023,65+,FEMALE,"Asian, Non-Hispanic",NA,26,24131,133,7886,75,1907
+27NOV2023,65+,FEMALE,"Asian, Non-Hispanic",NA,37,24168,40,7926,33,1940
+04DEC2023,65+,FEMALE,"Asian, Non-Hispanic",NA,0,24168,21,7947,18,1958
+11DEC2023,65+,FEMALE,"Asian, Non-Hispanic",NA,53,24221,3,7950,6,1964
+18DEC2023,65+,FEMALE,"Asian, Non-Hispanic",NA,0,24221,11,7961,1,1965
+25DEC2023,65+,FEMALE,"Asian, Non-Hispanic",NA,0,24221,0,7961,2,1967
+29MAY2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+05JUN2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+12JUN2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,1,0,0,0,0
+19JUN2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,2,0,0,0,0
+26JUN2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,3,0,0,0,0
+03JUL2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,7,10,0,0,0,0
+10JUL2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,7,17,3,3,0,0
+17JUL2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,21,2,5,0,0
+24JUL2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,7,28,2,7,1,1
+31JUL2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,32,0,7,0,1
+07AUG2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,9,41,1,8,0,1
+14AUG2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,11,52,1,9,0,1
+21AUG2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,15,67,2,11,0,1
+28AUG2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,19,86,3,14,0,1
+04SEP2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,18,104,5,19,0,1
+11SEP2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,22,126,5,24,0,1
+18SEP2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,32,158,4,28,1,2
+25SEP2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,19,177,4,32,0,2
+02OCT2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,23,200,9,41,0,2
+09OCT2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,22,222,7,48,3,5
+16OCT2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,15,237,6,54,1,6
+23OCT2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,14,251,4,58,1,7
+30OCT2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,11,262,3,61,0,7
+06NOV2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,267,3,64,0,7
+13NOV2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,268,1,65,1,8
+20NOV2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,269,0,65,0,8
+27NOV2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,270,0,65,0,8
+04DEC2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,270,0,65,0,8
+11DEC2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,270,0,65,0,8
+18DEC2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,270,0,65,0,8
+25DEC2023,65+,FEMALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,270,0,65,0,8
+29MAY2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,6,6,0,0,0,0
+05JUN2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,6,12,2,2,0,0
+12JUN2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,4,16,3,5,0,0
+19JUN2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,7,23,2,7,0,0
+26JUN2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,21,44,0,7,1,1
+03JUL2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,24,68,7,14,0,1
+10JUL2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,37,105,11,25,1,2
+17JUL2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,28,133,10,35,3,5
+24JUL2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,32,165,15,50,1,6
+31JUL2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,37,202,12,62,1,7
+07AUG2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,51,253,11,73,2,9
+14AUG2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,36,289,16,89,3,12
+21AUG2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,77,366,11,100,5,17
+28AUG2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,120,486,19,119,4,21
+04SEP2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,125,611,37,156,4,25
+11SEP2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,118,729,40,196,12,37
+18SEP2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,130,859,36,232,13,50
+25SEP2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,120,979,47,279,10,60
+02OCT2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,116,1095,46,325,4,64
+09OCT2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,110,1205,33,358,12,76
+16OCT2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,117,1322,39,397,8,84
+23OCT2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,107,1429,40,437,8,92
+30OCT2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,61,1490,29,466,11,103
+06NOV2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,44,1534,18,484,4,107
+13NOV2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,16,1550,18,502,5,112
+20NOV2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,2,1552,9,511,2,114
+27NOV2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,3,1555,3,514,4,118
+04DEC2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1555,1,515,1,119
+11DEC2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,6,1561,0,515,0,119
+18DEC2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1561,0,515,0,119
+25DEC2023,65+,FEMALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1561,0,515,0,119
+29MAY2023,65+,FEMALE,Hispanic (any race),NA,128,128,0,0,0,0
+05JUN2023,65+,FEMALE,Hispanic (any race),NA,133,261,30,30,0,0
+12JUN2023,65+,FEMALE,Hispanic (any race),NA,110,371,45,75,7,7
+19JUN2023,65+,FEMALE,Hispanic (any race),NA,345,716,42,117,14,21
+26JUN2023,65+,FEMALE,Hispanic (any race),NA,581,1297,114,231,17,38
+03JUL2023,65+,FEMALE,Hispanic (any race),NA,676,1973,163,394,33,71
+10JUL2023,65+,FEMALE,Hispanic (any race),NA,833,2806,213,607,44,115
+17JUL2023,65+,FEMALE,Hispanic (any race),NA,636,3442,254,861,57,172
+24JUL2023,65+,FEMALE,Hispanic (any race),NA,765,4207,229,1090,56,228
+31JUL2023,65+,FEMALE,Hispanic (any race),NA,1253,5460,255,1345,50,278
+07AUG2023,65+,FEMALE,Hispanic (any race),NA,1265,6725,373,1718,66,344
+14AUG2023,65+,FEMALE,Hispanic (any race),NA,1490,8215,407,2125,84,428
+21AUG2023,65+,FEMALE,Hispanic (any race),NA,2284,10499,506,2631,93,521
+28AUG2023,65+,FEMALE,Hispanic (any race),NA,3620,14119,713,3344,108,629
+04SEP2023,65+,FEMALE,Hispanic (any race),NA,3587,17706,1080,4424,169,798
+11SEP2023,65+,FEMALE,Hispanic (any race),NA,3241,20947,1195,5619,256,1054
+18SEP2023,65+,FEMALE,Hispanic (any race),NA,3721,24668,1083,6702,259,1313
+25SEP2023,65+,FEMALE,Hispanic (any race),NA,3107,27775,1171,7873,266,1579
+02OCT2023,65+,FEMALE,Hispanic (any race),NA,3150,30925,1058,8931,279,1858
+09OCT2023,65+,FEMALE,Hispanic (any race),NA,3109,34034,1047,9978,263,2121
+16OCT2023,65+,FEMALE,Hispanic (any race),NA,3112,37146,1052,11030,238,2359
+23OCT2023,65+,FEMALE,Hispanic (any race),NA,2508,39654,1045,12075,243,2602
+30OCT2023,65+,FEMALE,Hispanic (any race),NA,1669,41323,847,12922,267,2869
+06NOV2023,65+,FEMALE,Hispanic (any race),NA,1267,42590,625,13547,198,3067
+13NOV2023,65+,FEMALE,Hispanic (any race),NA,420,43010,464,14011,132,3199
+20NOV2023,65+,FEMALE,Hispanic (any race),NA,56,43066,235,14246,110,3309
+27NOV2023,65+,FEMALE,Hispanic (any race),NA,78,43144,79,14325,65,3374
+04DEC2023,65+,FEMALE,Hispanic (any race),NA,0,43144,45,14370,13,3387
+11DEC2023,65+,FEMALE,Hispanic (any race),NA,80,43224,8,14378,11,3398
+18DEC2023,65+,FEMALE,Hispanic (any race),NA,0,43224,23,14401,1,3399
+25DEC2023,65+,FEMALE,Hispanic (any race),NA,0,43224,9,14410,7,3406
+29MAY2023,65+,MALE,"White, Non-Hispanic",NA,135,135,0,0,0,0
+05JUN2023,65+,MALE,"White, Non-Hispanic",NA,122,257,37,37,0,0
+12JUN2023,65+,MALE,"White, Non-Hispanic",NA,122,379,37,74,7,7
+19JUN2023,65+,MALE,"White, Non-Hispanic",NA,299,678,39,113,10,17
+26JUN2023,65+,MALE,"White, Non-Hispanic",NA,503,1181,81,194,11,28
+03JUL2023,65+,MALE,"White, Non-Hispanic",NA,653,1834,133,327,16,44
+10JUL2023,65+,MALE,"White, Non-Hispanic",NA,892,2726,218,545,35,79
+17JUL2023,65+,MALE,"White, Non-Hispanic",NA,656,3382,280,825,59,138
+24JUL2023,65+,MALE,"White, Non-Hispanic",NA,738,4120,236,1061,59,197
+31JUL2023,65+,MALE,"White, Non-Hispanic",NA,1238,5358,227,1288,66,263
+07AUG2023,65+,MALE,"White, Non-Hispanic",NA,1218,6576,359,1647,49,312
+14AUG2023,65+,MALE,"White, Non-Hispanic",NA,1527,8103,381,2028,91,403
+21AUG2023,65+,MALE,"White, Non-Hispanic",NA,2320,10423,455,2483,92,495
+28AUG2023,65+,MALE,"White, Non-Hispanic",NA,3638,14061,704,3187,91,586
+04SEP2023,65+,MALE,"White, Non-Hispanic",NA,3627,17688,1097,4284,174,760
+11SEP2023,65+,MALE,"White, Non-Hispanic",NA,3338,21026,1186,5470,257,1017
+18SEP2023,65+,MALE,"White, Non-Hispanic",NA,3799,24825,1094,6564,275,1292
+25SEP2023,65+,MALE,"White, Non-Hispanic",NA,3104,27929,1178,7742,255,1547
+02OCT2023,65+,MALE,"White, Non-Hispanic",NA,3177,31106,1099,8841,290,1837
+09OCT2023,65+,MALE,"White, Non-Hispanic",NA,3003,34109,1088,9929,233,2070
+16OCT2023,65+,MALE,"White, Non-Hispanic",NA,3141,37250,999,10928,256,2326
+23OCT2023,65+,MALE,"White, Non-Hispanic",NA,2570,39820,1068,11996,233,2559
+30OCT2023,65+,MALE,"White, Non-Hispanic",NA,1754,41574,905,12901,270,2829
+06NOV2023,65+,MALE,"White, Non-Hispanic",NA,1171,42745,677,13578,203,3032
+13NOV2023,65+,MALE,"White, Non-Hispanic",NA,416,43161,433,14011,156,3188
+20NOV2023,65+,MALE,"White, Non-Hispanic",NA,44,43205,221,14232,99,3287
+27NOV2023,65+,MALE,"White, Non-Hispanic",NA,82,43287,74,14306,54,3341
+04DEC2023,65+,MALE,"White, Non-Hispanic",NA,0,43287,42,14348,22,3363
+11DEC2023,65+,MALE,"White, Non-Hispanic",NA,74,43361,8,14356,10,3373
+18DEC2023,65+,MALE,"White, Non-Hispanic",NA,0,43361,29,14385,3,3376
+25DEC2023,65+,MALE,"White, Non-Hispanic",NA,0,43361,7,14392,9,3385
+29MAY2023,65+,MALE,"Black, Non-Hispanic",NA,21,21,0,0,0,0
+05JUN2023,65+,MALE,"Black, Non-Hispanic",NA,30,51,4,4,0,0
+12JUN2023,65+,MALE,"Black, Non-Hispanic",NA,18,69,10,14,2,2
+19JUN2023,65+,MALE,"Black, Non-Hispanic",NA,67,136,5,19,3,5
+26JUN2023,65+,MALE,"Black, Non-Hispanic",NA,109,245,20,39,0,5
+03JUL2023,65+,MALE,"Black, Non-Hispanic",NA,122,367,27,66,5,10
+10JUL2023,65+,MALE,"Black, Non-Hispanic",NA,158,525,41,107,7,17
+17JUL2023,65+,MALE,"Black, Non-Hispanic",NA,125,650,43,150,11,28
+24JUL2023,65+,MALE,"Black, Non-Hispanic",NA,131,781,39,189,11,39
+31JUL2023,65+,MALE,"Black, Non-Hispanic",NA,238,1019,45,234,4,43
+07AUG2023,65+,MALE,"Black, Non-Hispanic",NA,257,1276,84,318,15,58
+14AUG2023,65+,MALE,"Black, Non-Hispanic",NA,277,1553,83,401,22,80
+21AUG2023,65+,MALE,"Black, Non-Hispanic",NA,475,2028,92,493,27,107
+28AUG2023,65+,MALE,"Black, Non-Hispanic",NA,665,2693,147,640,17,124
+04SEP2023,65+,MALE,"Black, Non-Hispanic",NA,716,3409,212,852,34,158
+11SEP2023,65+,MALE,"Black, Non-Hispanic",NA,605,4014,241,1093,48,206
+18SEP2023,65+,MALE,"Black, Non-Hispanic",NA,738,4752,204,1297,57,263
+25SEP2023,65+,MALE,"Black, Non-Hispanic",NA,618,5370,256,1553,50,313
+02OCT2023,65+,MALE,"Black, Non-Hispanic",NA,601,5971,222,1775,59,372
+09OCT2023,65+,MALE,"Black, Non-Hispanic",NA,559,6530,207,1982,48,420
+16OCT2023,65+,MALE,"Black, Non-Hispanic",NA,545,7075,217,2199,41,461
+23OCT2023,65+,MALE,"Black, Non-Hispanic",NA,520,7595,201,2400,59,520
+30OCT2023,65+,MALE,"Black, Non-Hispanic",NA,334,7929,165,2565,42,562
+06NOV2023,65+,MALE,"Black, Non-Hispanic",NA,251,8180,117,2682,38,600
+13NOV2023,65+,MALE,"Black, Non-Hispanic",NA,73,8253,84,2766,29,629
+20NOV2023,65+,MALE,"Black, Non-Hispanic",NA,11,8264,32,2798,18,647
+27NOV2023,65+,MALE,"Black, Non-Hispanic",NA,14,8278,11,2809,6,653
+04DEC2023,65+,MALE,"Black, Non-Hispanic",NA,0,8278,6,2815,5,658
+11DEC2023,65+,MALE,"Black, Non-Hispanic",NA,13,8291,1,2816,2,660
+18DEC2023,65+,MALE,"Black, Non-Hispanic",NA,0,8291,2,2818,0,660
+25DEC2023,65+,MALE,"Black, Non-Hispanic",NA,0,8291,0,2818,0,660
+29MAY2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,1,0,0,0,0
+05JUN2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,2,1,1,0,0
+12JUN2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,3,1,2,1,1
+19JUN2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,4,1,3,1,2
+26JUN2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,10,0,3,0,2
+03JUL2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,6,16,4,7,0,2
+10JUL2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,19,4,11,2,4
+17JUL2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,24,2,13,2,6
+24JUL2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,4,28,2,15,1,7
+31JUL2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,33,1,16,1,8
+07AUG2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,38,3,19,0,8
+14AUG2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,11,49,1,20,0,8
+21AUG2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,13,62,2,22,1,9
+28AUG2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,16,78,5,27,0,9
+04SEP2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,16,94,6,33,0,9
+11SEP2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,23,117,8,41,4,13
+18SEP2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,17,134,5,46,1,14
+25SEP2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,26,160,7,53,2,16
+02OCT2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,20,180,9,62,0,16
+09OCT2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,19,199,9,71,3,19
+16OCT2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,13,212,10,81,2,21
+23OCT2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,25,237,7,88,2,23
+30OCT2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,3,240,8,96,2,25
+06NOV2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,9,249,2,98,0,25
+13NOV2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,5,254,3,101,0,25
+20NOV2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,254,0,101,0,25
+27NOV2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,254,0,101,0,25
+04DEC2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,254,0,101,0,25
+11DEC2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,1,255,0,101,0,25
+18DEC2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,255,0,101,0,25
+25DEC2023,65+,MALE,"American Indian or Alaska Native, Non-Hispanic",NA,0,255,0,101,0,25
+29MAY2023,65+,MALE,"Asian, Non-Hispanic",NA,58,58,0,0,0,0
+05JUN2023,65+,MALE,"Asian, Non-Hispanic",NA,46,104,16,16,0,0
+12JUN2023,65+,MALE,"Asian, Non-Hispanic",NA,37,141,16,32,3,3
+19JUN2023,65+,MALE,"Asian, Non-Hispanic",NA,133,274,13,45,4,7
+26JUN2023,65+,MALE,"Asian, Non-Hispanic",NA,221,495,35,80,2,9
+03JUL2023,65+,MALE,"Asian, Non-Hispanic",NA,287,782,67,147,15,24
+10JUL2023,65+,MALE,"Asian, Non-Hispanic",NA,319,1101,99,246,16,40
+17JUL2023,65+,MALE,"Asian, Non-Hispanic",NA,267,1368,108,354,20,60
+24JUL2023,65+,MALE,"Asian, Non-Hispanic",NA,300,1668,103,457,29,89
+31JUL2023,65+,MALE,"Asian, Non-Hispanic",NA,524,2192,106,563,19,108
+07AUG2023,65+,MALE,"Asian, Non-Hispanic",NA,480,2672,175,738,31,139
+14AUG2023,65+,MALE,"Asian, Non-Hispanic",NA,643,3315,176,914,45,184
+21AUG2023,65+,MALE,"Asian, Non-Hispanic",NA,952,4267,209,1123,39,223
+28AUG2023,65+,MALE,"Asian, Non-Hispanic",NA,1510,5777,299,1422,56,279
+04SEP2023,65+,MALE,"Asian, Non-Hispanic",NA,1479,7256,453,1875,68,347
+11SEP2023,65+,MALE,"Asian, Non-Hispanic",NA,1345,8601,496,2371,114,461
+18SEP2023,65+,MALE,"Asian, Non-Hispanic",NA,1534,10135,479,2850,137,598
+25SEP2023,65+,MALE,"Asian, Non-Hispanic",NA,1253,11388,474,3324,117,715
+02OCT2023,65+,MALE,"Asian, Non-Hispanic",NA,1243,12631,416,3740,113,828
+09OCT2023,65+,MALE,"Asian, Non-Hispanic",NA,1258,13889,427,4167,94,922
+16OCT2023,65+,MALE,"Asian, Non-Hispanic",NA,1226,15115,412,4579,110,1032
+23OCT2023,65+,MALE,"Asian, Non-Hispanic",NA,1064,16179,401,4980,105,1137
+30OCT2023,65+,MALE,"Asian, Non-Hispanic",NA,685,16864,355,5335,106,1243
+06NOV2023,65+,MALE,"Asian, Non-Hispanic",NA,517,17381,276,5611,80,1323
+13NOV2023,65+,MALE,"Asian, Non-Hispanic",NA,174,17555,188,5799,53,1376
+20NOV2023,65+,MALE,"Asian, Non-Hispanic",NA,17,17572,107,5906,45,1421
+27NOV2023,65+,MALE,"Asian, Non-Hispanic",NA,27,17599,33,5939,28,1449
+04DEC2023,65+,MALE,"Asian, Non-Hispanic",NA,0,17599,15,5954,9,1458
+11DEC2023,65+,MALE,"Asian, Non-Hispanic",NA,32,17631,6,5960,3,1461
+18DEC2023,65+,MALE,"Asian, Non-Hispanic",NA,0,17631,11,5971,1,1462
+25DEC2023,65+,MALE,"Asian, Non-Hispanic",NA,0,17631,2,5973,4,1466
+29MAY2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+05JUN2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+12JUN2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,0,0,0,0,0
+19JUN2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,2,0,0,0,0
+26JUN2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,6,0,0,0,0
+03JUL2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,4,10,1,1,0,0
+10JUL2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,15,2,3,0,0
+17JUL2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,18,0,3,1,1
+24JUL2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,3,21,2,5,0,1
+31JUL2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,9,30,1,6,2,3
+07AUG2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,6,36,5,11,0,3
+14AUG2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,8,44,3,14,2,5
+21AUG2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,16,60,3,17,1,6
+28AUG2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,17,77,4,21,1,7
+04SEP2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,15,92,4,25,1,8
+11SEP2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,12,104,6,31,0,8
+18SEP2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,22,126,2,33,2,10
+25SEP2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,14,140,7,40,0,10
+02OCT2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,16,156,4,44,2,12
+09OCT2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,15,171,2,46,0,12
+16OCT2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,12,183,3,49,1,13
+23OCT2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,9,192,3,52,1,14
+30OCT2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,5,197,2,54,2,16
+06NOV2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,2,199,4,58,1,17
+13NOV2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,1,200,1,59,0,17
+20NOV2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,200,0,59,1,18
+27NOV2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,200,0,59,0,18
+04DEC2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,200,0,59,0,18
+11DEC2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,200,0,59,0,18
+18DEC2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,200,0,59,0,18
+25DEC2023,65+,MALE,"Native Hawaiian or Pacific Islander, Non-Hispanic",NA,0,200,0,59,0,18
+29MAY2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,5,5,0,0,0,0
+05JUN2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,5,10,0,0,0,0
+12JUN2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,4,14,1,1,0,0
+19JUN2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,14,28,1,2,0,0
+26JUN2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,14,42,3,5,0,0
+03JUL2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,23,65,6,11,1,1
+10JUL2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,28,93,11,22,2,3
+17JUL2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,13,106,12,34,4,7
+24JUL2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,19,125,5,39,4,11
+31JUL2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,43,168,7,46,1,12
+07AUG2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,28,196,11,57,2,14
+14AUG2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,46,242,12,69,2,16
+21AUG2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,67,309,18,87,0,16
+28AUG2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,108,417,28,115,2,18
+04SEP2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,89,506,28,143,5,23
+11SEP2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,91,597,34,177,3,26
+18SEP2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,116,713,28,205,11,37
+25SEP2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,75,788,34,239,7,44
+02OCT2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,88,876,28,267,9,53
+09OCT2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,81,957,25,292,9,62
+16OCT2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,87,1044,22,314,2,64
+23OCT2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,75,1119,22,336,2,66
+30OCT2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,42,1161,23,359,8,74
+06NOV2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,24,1185,14,373,4,78
+13NOV2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,6,1191,12,385,1,79
+20NOV2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1191,5,390,1,80
+27NOV2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,3,1194,0,390,1,81
+04DEC2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1194,0,390,0,81
+11DEC2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,1,1195,0,390,0,81
+18DEC2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1195,0,390,0,81
+25DEC2023,65+,MALE,"Multiracial (two or more of above races), Non-Hispanic",NA,0,1195,0,390,0,81
+29MAY2023,65+,MALE,Hispanic (any race),NA,124,124,0,0,0,0
+05JUN2023,65+,MALE,Hispanic (any race),NA,106,230,37,37,0,0
+12JUN2023,65+,MALE,Hispanic (any race),NA,81,311,25,62,6,6
+19JUN2023,65+,MALE,Hispanic (any race),NA,245,556,33,95,6,12
+26JUN2023,65+,MALE,Hispanic (any race),NA,456,1012,71,166,8,20
+03JUL2023,65+,MALE,Hispanic (any race),NA,487,1499,135,301,16,36
+10JUL2023,65+,MALE,Hispanic (any race),NA,677,2176,154,455,32,68
+17JUL2023,65+,MALE,Hispanic (any race),NA,500,2676,207,662,34,102
+24JUL2023,65+,MALE,Hispanic (any race),NA,573,3249,180,842,39,141
+31JUL2023,65+,MALE,Hispanic (any race),NA,901,4150,177,1019,44,185
+07AUG2023,65+,MALE,Hispanic (any race),NA,964,5114,271,1290,44,229
+14AUG2023,65+,MALE,Hispanic (any race),NA,1292,6406,293,1583,57,286
+21AUG2023,65+,MALE,Hispanic (any race),NA,1826,8232,418,2001,69,355
+28AUG2023,65+,MALE,Hispanic (any race),NA,2790,11022,606,2607,98,453
+04SEP2023,65+,MALE,Hispanic (any race),NA,2732,13754,864,3471,137,590
+11SEP2023,65+,MALE,Hispanic (any race),NA,2507,16261,904,4375,197,787
+18SEP2023,65+,MALE,Hispanic (any race),NA,2877,19138,862,5237,209,996
+25SEP2023,65+,MALE,Hispanic (any race),NA,2381,21519,980,6217,198,1194
+02OCT2023,65+,MALE,Hispanic (any race),NA,2365,23884,852,7069,235,1429
+09OCT2023,65+,MALE,Hispanic (any race),NA,2340,26224,792,7861,206,1635
+16OCT2023,65+,MALE,Hispanic (any race),NA,2413,28637,786,8647,195,1830
+23OCT2023,65+,MALE,Hispanic (any race),NA,1986,30623,774,9421,180,2010
+30OCT2023,65+,MALE,Hispanic (any race),NA,1296,31919,698,10119,181,2191
+06NOV2023,65+,MALE,Hispanic (any race),NA,923,32842,508,10627,162,2353
+13NOV2023,65+,MALE,Hispanic (any race),NA,338,33180,355,10982,132,2485
+20NOV2023,65+,MALE,Hispanic (any race),NA,39,33219,189,11171,80,2565
+27NOV2023,65+,MALE,Hispanic (any race),NA,53,33272,56,11227,52,2617
+04DEC2023,65+,MALE,Hispanic (any race),NA,0,33272,25,11252,14,2631
+11DEC2023,65+,MALE,Hispanic (any race),NA,64,33336,4,11256,5,2636
+18DEC2023,65+,MALE,Hispanic (any race),NA,0,33336,13,11269,0,2636
+25DEC2023,65+,MALE,Hispanic (any race),NA,0,33336,4,11273,4,2640
